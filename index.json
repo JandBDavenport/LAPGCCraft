@@ -926,7 +926,7 @@
     },
     {
       "path": "overrides/config/almostunified/unify.json",
-      "sha1": "fa0b1c35467287268a809a2a4682691fa59e1e87"
+      "sha1": "7d1bd631bec661f9c7c14bd07722cb10b1494a91"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
@@ -1766,7 +1766,7 @@
     },
     {
       "path": "overrides/config/powah.json5",
-      "sha1": "4e843b929772b5bac346de2570c20421d40c92b3"
+      "sha1": "fd64f2c74cecee106c207eb8049e3e414481983f"
     },
     {
       "path": "overrides/config/resourceful-config-web.json",
@@ -3477,6 +3477,10 @@
       "sha1": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a"
     },
     {
+      "path": "overrides/kubejs/client_scripts/names.js",
+      "sha1": "ac9588f39e6794fdfc23ba2f27f4eef4c4f54e9c"
+    },
+    {
       "path": "overrides/kubejs/config/client.properties",
       "sha1": "83249805d48385eff80ffdca3357f8208042cd9f"
     },
@@ -3517,8 +3521,12 @@
       "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
     },
     {
+      "path": "overrides/kubejs/startup_scripts/gtceu_materials.js",
+      "sha1": "ed21d9deec7294e2dac7d91ef4ca5cfb7ae45227"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/specific_items.js",
-      "sha1": "62b67f37a3a4d1a790bdd9af5ac7b2b0dc24d5a1"
+      "sha1": "c81b0a97a39fb318f50f577336eaa1a71d3334a9"
     },
     {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",
