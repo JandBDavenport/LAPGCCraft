@@ -278,7 +278,7 @@
     },
     {
       "path": "content/mods/mcjtylib.json",
-      "sha1": "2df3ee971707934a04a0b74eded8b2314d74cc3b"
+      "sha1": "ce7064b93edabd02a6dbcdf8aca5f1082f7e12f6"
     },
     {
       "path": "content/mods/mega.json",
@@ -926,7 +926,7 @@
     },
     {
       "path": "overrides/config/almostunified/unify.json",
-      "sha1": "fa0b1c35467287268a809a2a4682691fa59e1e87"
+      "sha1": "7d1bd631bec661f9c7c14bd07722cb10b1494a91"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
@@ -1546,7 +1546,7 @@
     },
     {
       "path": "overrides/config/gtceu.yaml",
-      "sha1": "e7049fc7eec8861661bc6a365ee9ca79c9abf0ab"
+      "sha1": "c1506aa6a6b321efd8ca26290236a891d712805b"
     },
     {
       "path": "overrides/config/guideme.toml",
@@ -1766,7 +1766,7 @@
     },
     {
       "path": "overrides/config/powah.json5",
-      "sha1": "f9c31f11d9240bb78fea25491b9fc9baa7236dd4"
+      "sha1": "fd64f2c74cecee106c207eb8049e3e414481983f"
     },
     {
       "path": "overrides/config/resourceful-config-web.json",
@@ -1819,6 +1819,10 @@
     {
       "path": "overrides/config/zume.json5",
       "sha1": "d1f7f7cefb1042d843972a118d73bffeb63702e1"
+    },
+    {
+      "path": "overrides/defaultconfigs/ftbchunks/ftbchunks-world.snbt",
+      "sha1": "59e94d64924b44e8c5bdec548cbb7852023d0ae2"
     },
     {
       "path": "overrides/gtceu/prospection_cache/FrenchFryFan_297b45d0-95d4-4771-b6fe-23b87d67d76d/v0_1_0_069458d8-022b-4f9e-a930-c2e614a9bd09/gtceu/fluids.nbt",
@@ -3453,8 +3457,16 @@
       "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
     },
     {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cheesite_wedge.png",
+      "sha1": "f80ca97bbcd3a81b86990a283d118c8a946007be"
+    },
+    {
       "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
       "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/pumpkinite_ingot.png",
+      "sha1": "05ec7f8219fb5b249638c6fd4de4b011a286a386"
     },
     {
       "path": "overrides/kubejs/assets/nuclearcraft/textures/item/fuel/readme.txt",
@@ -3463,6 +3475,10 @@
     {
       "path": "overrides/kubejs/client_scripts/example.js",
       "sha1": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a"
+    },
+    {
+      "path": "overrides/kubejs/client_scripts/names.js",
+      "sha1": "ac9588f39e6794fdfc23ba2f27f4eef4c4f54e9c"
     },
     {
       "path": "overrides/kubejs/config/client.properties",
@@ -3477,6 +3493,10 @@
       "sha1": "9530c6a8d3608ca41418ccb29a01d179d5c06bab"
     },
     {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/kubejsstudio.js",
+      "sha1": "8337c79d2bd3638fc4449556039886c351a61733"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
       "sha1": "f9bf53e1db3289b469f19c8c4f2deb3413f3119e"
     },
@@ -3489,12 +3509,24 @@
       "sha1": "f6a6374b0ef574cd166ea28cff6bf46e9c1b8c90"
     },
     {
-      "path": "overrides/kubejs/server_scripts/lapg_hide_fluids.js",
-      "sha1": "7881b7be41083777e58294e9a722dae0496f8cf0"
+      "path": "overrides/kubejs/server_scripts/lapgc_hide_fluids.js",
+      "sha1": "dd4fc22c194a07b0386e7edb89302f9ac6e6408e"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/misc.js",
+      "sha1": "01dea566141d8c077edb86aa07c70c0252c4f98f"
     },
     {
       "path": "overrides/kubejs/startup_scripts/example.js",
       "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/gtceu_materials.js",
+      "sha1": "ed21d9deec7294e2dac7d91ef4ca5cfb7ae45227"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/specific_items.js",
+      "sha1": "c81b0a97a39fb318f50f577336eaa1a71d3334a9"
     },
     {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",

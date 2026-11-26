@@ -68,7 +68,7 @@
 - [Malum](https://modrinth.com/project/malum) `1.20.1-1.6.7`
 - [Mantle](https://modrinth.com/project/mantle) `1.11.128`
 - [Matter Manipulator Reborn](https://www.curseforge.com/projects/1748833) `Matter Manipulator 0.1.3+1.20.1`
-- [McJtyLib](https://www.curseforge.com/projects/233105) `McJtyLib - 1.20-8.0.11`
+- [McJtyLib](https://www.curseforge.com/projects/233105) `McJtyLib - 1.20-8.0.12`
 - [MEGA Cells](https://modrinth.com/project/mega) `forge-2.4.6`
 - [Mekanism](https://modrinth.com/project/mekanism) `10.4.16.80`
 - [Mekanism Generators](https://modrinth.com/project/mekanism-generators) `10.4.16.80`

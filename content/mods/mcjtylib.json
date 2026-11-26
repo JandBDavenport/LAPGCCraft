@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "233105",
       "slug": "mcjtylib",
-      "versionId": "9752977",
-      "versionNumber": "McJtyLib - 1.20-8.0.11",
-      "filename": "mcjtylib-1.20-8.0.11.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9752/977/mcjtylib-1.20-8.0.11.jar",
-      "sha1": "c3aa0f9ea17d7a0a56e0c7941a7e9900e8a6e3a7",
-      "fileSize": 713830
+      "versionId": "9809093",
+      "versionNumber": "McJtyLib - 1.20-8.0.12",
+      "filename": "mcjtylib-1.20-8.0.12.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9809/93/mcjtylib-1.20-8.0.12.jar",
+      "sha1": "b1348111c7f5d9a32c445d67cbea981cd49bbe34",
+      "fileSize": 713851
     }
   },
   "dependents": [

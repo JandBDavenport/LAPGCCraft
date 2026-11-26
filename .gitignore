@@ -71,3 +71,5 @@ overrides/config/kubejsstudio.json
 overrides/journeymap/
 overrides/defaultconfigs/ftbchunks/client-config.snbt
 overrides/defaultconfigs/ftblibrary/ftblibrary-client.snbt
+overrides/patchouli_data.json
+overrides/config/Mekanism/client.toml

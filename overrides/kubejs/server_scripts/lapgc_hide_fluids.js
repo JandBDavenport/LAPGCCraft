@@ -30,5 +30,5 @@ ServerEvents.tags('fluid', function (event) {
             hidden++;
         }
     });
-    console.log("LAPGHIDE hidden fluid entries: " + hidden);
+    console.log("LAPGCHIDE hidden fluid entries: " + hidden);
 });

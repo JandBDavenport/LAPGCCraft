@@ -133,7 +133,8 @@
     "stone",
     "wood",
     "saltpeter",
-    "salt"
+    "salt",
+    "conductive_alloy"
   ],
   "priorityOverrides": {},
   "customTags": {},
