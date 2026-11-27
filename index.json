@@ -1378,7 +1378,7 @@
     },
     {
       "path": "overrides/config/brandon3055/ModuleStats.cfg",
-      "sha1": "456dbc40e9ee85d5bed6cd77298f1783309d923e"
+      "sha1": "d21f392e28f0115003711f174d36778abbfce04b"
     },
     {
       "path": "overrides/config/brandon3055/contributors.json",
@@ -1511,6 +1511,10 @@
     {
       "path": "overrides/config/enderio_evolution/worldgen.toml",
       "sha1": "aa0100a1562f81f786078b17c78d053182f032b1"
+    },
+    {
+      "path": "overrides/config/entangled-common.toml",
+      "sha1": "26e0436a06fed294fe955cfc785501a02af68fcc"
     },
     {
       "path": "overrides/config/evilcraft-common.toml",
@@ -1874,7 +1878,7 @@
     },
     {
       "path": "overrides/config/powah.json5",
-      "sha1": "fd64f2c74cecee106c207eb8049e3e414481983f"
+      "sha1": "3d5aef0bf49de779bcce2d12694ab82252950821"
     },
     {
       "path": "overrides/config/resourceful-config-web.json",
@@ -1886,7 +1890,7 @@
     },
     {
       "path": "overrides/config/sophisticatedcore-common.toml",
-      "sha1": "891d107670ba01c4b40f18346ca90a1bc7400131"
+      "sha1": "3ee5cc495a3868db53ab2cb0211e180a3ae6717d"
     },
     {
       "path": "overrides/config/storagedrawers-client.toml",
@@ -3638,7 +3642,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/misc.js",
-      "sha1": "e72b8eea0a65b3cb66631ad4f427d5551583ca2a"
+      "sha1": "1a42ea1ffa53d121396ce8f663c74bece41242e9"
     },
     {
       "path": "overrides/kubejs/startup_scripts/example.js",
@@ -3654,7 +3658,11 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/specific_items.js",
-      "sha1": "f4f96efa89273eaabc28986c2196b7a3da2c681f"
+      "sha1": "656a43b17015bfdf758e319393d2cee0b0601593"
+    },
+    {
+      "path": "overrides/malum_extra.json",
+      "sha1": "7d65229a7253ad8dec1559214d75cb152e3ff81b"
     },
     {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",
