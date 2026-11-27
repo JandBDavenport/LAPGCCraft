@@ -24,6 +24,7 @@ event.create('sodium_dichromate')
 event.create('sodium_sulfate')
 event.create('calcium_sulfide')
 event.create('alumina')
+event.create('chromia')
 
 event.create('pumpkinite_ingot')
     .tag('forge:ingots')
