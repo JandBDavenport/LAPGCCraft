@@ -1,6 +1,6 @@
 {
   "name": "Nolijium",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
@@ -29,5 +29,5 @@
   },
   "dependents": [],
   "clientSide": "required",
-  "serverSide": "required"
+  "serverSide": "unsupported"
 }
