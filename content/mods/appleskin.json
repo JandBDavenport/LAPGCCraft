@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "EsAfCjCV",
@@ -15,9 +15,19 @@
       "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
       "sha512": "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9",
       "fileSize": 47428
+    },
+    "curseforge": {
+      "id": "248787",
+      "slug": "appleskin",
+      "versionId": "4770828",
+      "versionNumber": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4770/828/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "fileSize": 47428
     }
   },
   "dependents": [],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "clientSide": "required",
+  "serverSide": "required"
 }

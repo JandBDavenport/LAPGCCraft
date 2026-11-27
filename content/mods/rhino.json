@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "sk9knFPE",
@@ -15,12 +15,22 @@
       "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
       "sha512": "4eb6a635f3eff3baa158539bd55344421cf69b15e28f7da8bf55f370a11c071f3525063a6f81b67fbfca550ad8aaab7e6208df87f65ca6ed2851edd46f032b58",
       "fileSize": 1798244
+    },
+    "curseforge": {
+      "id": "416294",
+      "slug": "rhino",
+      "versionId": "6186971",
+      "versionNumber": "Rhino Forge 2001.2.3-build.10",
+      "filename": "rhino-forge-2001.2.3-build.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6186/971/rhino-forge-2001.2.3-build.10.jar",
+      "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+      "fileSize": 1798244
     }
   },
   "dependents": [
     "1624204",
-    "umyGl7zF"
+    "238086"
   ],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "clientSide": "required",
+  "serverSide": "required"
 }

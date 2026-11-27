@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "tCkE8p2N",
@@ -15,11 +15,22 @@
       "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
       "sha512": "c23990465e26336f476c3b05a897bcf0c8660ae7338756b325f6bf81d0dee34b609474c62293f394acac818637ab03f92c776d104c8b8e86f3786395f5c4d623",
       "fileSize": 282474
+    },
+    "curseforge": {
+      "id": "283644",
+      "slug": "placebo",
+      "versionId": "6274231",
+      "versionNumber": "Placebo-1.20.1-8.6.3.jar",
+      "filename": "Placebo-1.20.1-8.6.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6274/231/Placebo-1.20.1-8.6.3.jar",
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "fileSize": 282474
     }
   },
   "dependents": [
-    "6bLUlbZn"
+    "552574",
+    "694962"
   ],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "clientSide": "required",
+  "serverSide": "required"
 }

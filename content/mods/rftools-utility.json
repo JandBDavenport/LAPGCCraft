@@ -1,0 +1,22 @@
+{
+  "name": "RFTools Utility",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "342466",
+      "slug": "rftools-utility",
+      "versionId": "9807583",
+      "versionNumber": "RFToolsUtility - 1.20-6.0.10",
+      "filename": "rftoolsutility-1.20-6.0.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9807/583/rftoolsutility-1.20-6.0.10.jar",
+      "sha1": "dacbf3006425dde804f9d591996b6e9dcaac2065",
+      "fileSize": 1374422
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "5beJoehw",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/5beJoehw/versions/A2jLUXFB/thermal_cultivation-1.20.1-11.0.1.24.jar",
       "sha1": "1973b5142aedca44aefa66d2406643e7d00205c7",
       "sha512": "da46fffa1b76ba0c3eb6e8ec527fa8c48123970d648033f59dbfa004823cff53181d1dd57f2227e3dac2f02afbba2e1286211ff0e5110a19a83a085fbe61a346",
+      "fileSize": 622032
+    },
+    "curseforge": {
+      "id": "271835",
+      "slug": "thermal-cultivation",
+      "versionId": "5372746",
+      "versionNumber": "thermal_cultivation-1.20.1-11.0.1.24.jar",
+      "filename": "thermal_cultivation-1.20.1-11.0.1.24.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5372/746/thermal_cultivation-1.20.1-11.0.1.24.jar",
+      "sha1": "1973b5142aedca44aefa66d2406643e7d00205c7",
       "fileSize": 622032
     }
   },

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "Ns4fCzXQ",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/Ns4fCzXQ/versions/xQBSjPxB/curvy_pipes-1.20.1-1.15.8.jar",
       "sha1": "fb07ed856d56bbc50af9a9bfc9176232aa00f614",
       "sha512": "f92194c686f902f1e3af58b8a96fd55ecdccf07fc3c0af3bbf564934adb3c09d7ddf4556be78efd9f93aaaba71ec60cdf81a7ecd642ba40dd8a9d0e0f150a7bc",
+      "fileSize": 2650833
+    },
+    "curseforge": {
+      "id": "1151126",
+      "slug": "curvy-pipes",
+      "versionId": "8822563",
+      "versionNumber": "curvy_pipes-1.20.1-1.15.8.jar",
+      "filename": "curvy_pipes-1.20.1-1.15.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8822/563/curvy_pipes-1.20.1-1.15.8.jar",
+      "sha1": "fb07ed856d56bbc50af9a9bfc9176232aa00f614",
       "fileSize": 2650833
     }
   },

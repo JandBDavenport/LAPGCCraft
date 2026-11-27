@@ -1,0 +1,33 @@
+{
+  "name": "More Industrial Foregoing Addons (MIFA)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "modrinth": {
+      "id": "Ig6QciUH",
+      "slug": "mifa",
+      "versionId": "NiaZP7xJ",
+      "versionNumber": "1.1.1",
+      "filename": "mifa-forge-1.20.x-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ig6QciUH/versions/NiaZP7xJ/mifa-forge-1.20.x-1.1.1.jar",
+      "sha1": "69ef040bdd53c6ec19708511ccf345a5116725c8",
+      "sha512": "d8244361165908e0b2dece902b8aa8dbc562f745ba877e3c00a9cff4dde742ed6c98190d4bfea1d5ea78b8b43678d29682d9e5b7c1cac9d34bb053a3c10877ba",
+      "fileSize": 76767
+    },
+    "curseforge": {
+      "id": "1086142",
+      "slug": "mifa",
+      "versionId": "5849860",
+      "versionNumber": "mifa-forge-1.20.x-1.1.1.jar",
+      "filename": "mifa-forge-1.20.x-1.1.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5849/860/mifa-forge-1.20.x-1.1.1.jar",
+      "sha1": "69ef040bdd53c6ec19708511ccf345a5116725c8",
+      "fileSize": 76767
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

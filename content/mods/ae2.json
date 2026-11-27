@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "XxWD5pD3",
@@ -15,15 +15,27 @@
       "sha1": "4e81984691e35c729880a11f72deb52dcc74d41f",
       "sha512": "16c00668c82fc77d166f2917e38e940ef85bb80b05307c0da5d8ecd9f1de9dfb01c7d8fab32da84df1707c4eb3b5993634e794143243694ab66ae59289530457",
       "fileSize": 8501298
+    },
+    "curseforge": {
+      "id": "223794",
+      "slug": "applied-energistics-2",
+      "versionId": "9357405",
+      "versionNumber": "AE2 15.4.12 [FORGE]",
+      "filename": "appliedenergistics2-forge-15.4.12.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9357/405/appliedenergistics2-forge-15.4.12.jar",
+      "sha1": "4e81984691e35c729880a11f72deb52dcc74d41f",
+      "fileSize": 8501298
     }
   },
   "dependents": [
-    "IiATswDj",
-    "jjuIRIVr"
+    "574300",
+    "622112"
   ],
   "optionalDependents": [
-    "49ZofO4f",
-    "Ce6I4WUE"
+    "1748833",
+    "268560",
+    "623969",
+    "64578"
   ],
   "clientSide": "required",
   "serverSide": "required"

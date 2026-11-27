@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "jgzwYsAN",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/jgzwYsAN/versions/U88VbrNU/malum-1.20.1-1.6.7.jar",
       "sha1": "ecf1d9a6e4e69119f9583f90b9587107a75d8195",
       "sha512": "76b3a9d6fad5a4f0e1a24dd4ff40b3215b78319373f5b3ed7261570f2ae22c3601dd873907356476a03e10104669194c9fdb693ef7643edccd6062c97083cd2b",
+      "fileSize": 26296223
+    },
+    "curseforge": {
+      "id": "484064",
+      "slug": "malum",
+      "versionId": "6646111",
+      "versionNumber": "malum-1.20.1-1.6.7.jar",
+      "filename": "malum-1.20.1-1.6.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6646/111/malum-1.20.1-1.6.7.jar",
+      "sha1": "ecf1d9a6e4e69119f9583f90b9587107a75d8195",
       "fileSize": 26296223
     }
   },

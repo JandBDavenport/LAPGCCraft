@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "KZO4S4DO",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/KZO4S4DO/versions/xDOvxyqP/Powah-5.0.11.jar",
       "sha1": "f6dca27edc5de2e33de36969622c0ce3060ccd72",
       "sha512": "c9cf605e5598cfeda4392fe546f5cd541be8ac6fc02525cc23b0780aff7b8c40bb6a6fa572c70aea94428e7f69ff7cf64a1abded03e311c20c150d2f6c30fe6f",
+      "fileSize": 2393933
+    },
+    "curseforge": {
+      "id": "633483",
+      "slug": "powah-rearchitected",
+      "versionId": "6828054",
+      "versionNumber": "[FORGE 1.20.1] v5.0.11",
+      "filename": "Powah-5.0.11.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6828/54/Powah-5.0.11.jar",
+      "sha1": "f6dca27edc5de2e33de36969622c0ce3060ccd72",
       "fileSize": 2393933
     }
   },

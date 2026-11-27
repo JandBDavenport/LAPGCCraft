@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "Qvd8pl5G",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/Qvd8pl5G/versions/oXvTJYiG/NuclearCraft-1.20.1-1.2.38.jar",
       "sha1": "7cf8782decc50bcf670eba7d5ce325aeedd16ecb",
       "sha512": "ea86987f21c4e20b9aa6dc05b584a051aee64b5670a10ad24f1e90fcae211050ca907ec03dd3b1b028721e151210577d6842cb6814f7196899fd430fdac40cc2",
+      "fileSize": 30635099
+    },
+    "curseforge": {
+      "id": "840010",
+      "slug": "nuclearcraft-neoteric",
+      "versionId": "9668564",
+      "versionNumber": "NuclearCraft-1.20.1-1.2.38",
+      "filename": "NuclearCraft-1.20.1-1.2.38.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9668/564/NuclearCraft-1.20.1-1.2.38.jar",
+      "sha1": "7cf8782decc50bcf670eba7d5ce325aeedd16ecb",
       "fileSize": 30635099
     }
   },

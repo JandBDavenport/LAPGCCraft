@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "lfHFW1mp",
@@ -15,9 +15,22 @@
       "sha1": "2a1f35b5157faeb7910ce31e47e9145d03f5f3bb",
       "sha512": "eba2e38a791a02025367033c9519eb62f18b4571efb11cc745d26161e32500632c7d1b0cbcaa8dc4c1bc4734f347fdbf5097a200f8f0c7e53dd733082b2dcbba",
       "fileSize": 4360299
+    },
+    "curseforge": {
+      "id": "32274",
+      "slug": "journeymap",
+      "versionId": "9743452",
+      "versionNumber": "journeymap-1.20.1-6.0.8+forge",
+      "filename": "journeymap-forge-1.20.1-6.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9743/452/journeymap-forge-1.20.1-6.0.8.jar",
+      "sha1": "2a1f35b5157faeb7910ce31e47e9145d03f5f3bb",
+      "fileSize": 4360299
     }
   },
   "dependents": [],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "optionalDependents": [
+    "1752806"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
 }

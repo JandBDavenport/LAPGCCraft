@@ -1,0 +1,22 @@
+{
+  "name": "Gendustry: CE",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1179084",
+      "slug": "gendustry-community-edition",
+      "versionId": "7577686",
+      "versionNumber": "Gendustry: Community Edition 1.0.5",
+      "filename": "gendustry-1.20.1-1.0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7577/686/gendustry-1.20.1-1.0.5.jar",
+      "sha1": "637ab69521fadc9225208c89b4634e202abba0c4",
+      "fileSize": 387235
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

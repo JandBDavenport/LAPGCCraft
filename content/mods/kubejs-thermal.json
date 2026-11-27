@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "taN3HInZ",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/taN3HInZ/versions/rCUiMkUM/kubejs-thermal-2001.1.10-build.5.jar",
       "sha1": "b18e0b08daf4f2d83af0439448b61d2a036e604a",
       "sha512": "d192737a30e5ee823a6c51ab45638ec6174b9539834a60f4359a8e3d37d37ca566a14183556ca7e3ad877cf049aa31b869be0dd2026681e7d05777847b1eadf8",
+      "fileSize": 27872
+    },
+    "curseforge": {
+      "id": "421694",
+      "slug": "kubejs-thermal",
+      "versionId": "8043140",
+      "versionNumber": "kubejs-thermal Forge 2001.1.10-build.5",
+      "filename": "kubejs-thermal-2001.1.10-build.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8043/140/kubejs-thermal-2001.1.10-build.5.jar",
+      "sha1": "b18e0b08daf4f2d83af0439448b61d2a036e604a",
       "fileSize": 27872
     }
   },

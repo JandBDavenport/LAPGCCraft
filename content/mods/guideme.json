@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "Ck4E7v7R",
@@ -15,10 +15,20 @@
       "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
       "sha512": "c08f2ab76b4442a5fcdd19c7ddc6e2a4c74469fd96844d2f868f2fb18517aced97bf40032c3036f7ca4b094de1ded9e3dab57924a49f3a3d499b61a0ecc2a9cc",
       "fileSize": 9414827
+    },
+    "curseforge": {
+      "id": "1173950",
+      "slug": "guideme",
+      "versionId": "8204776",
+      "versionNumber": "GuideME 20.1.15",
+      "filename": "guideme-20.1.15.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8204/776/guideme-20.1.15.jar",
+      "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
+      "fileSize": 9414827
     }
   },
   "dependents": [
-    "XxWD5pD3"
+    "223794"
   ],
   "clientSide": "required",
   "serverSide": "required"

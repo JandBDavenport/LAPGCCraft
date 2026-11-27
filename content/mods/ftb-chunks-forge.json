@@ -17,6 +17,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "1752806"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

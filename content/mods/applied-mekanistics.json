@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "IiATswDj",
@@ -15,11 +15,21 @@
       "sha1": "8b37889d94b6c1ae5cd31ddde379a1c323c3c501",
       "sha512": "20db7dca0545a86351627a11b0d6fea0b687f2cd0fac621378b84926196e363d4e42c7d90d40c6d57172dc1dcf5bb98195e25a2c0b90c648008690a759e2e1b5",
       "fileSize": 185707
+    },
+    "curseforge": {
+      "id": "574300",
+      "slug": "applied-mekanistics",
+      "versionId": "7244744",
+      "versionNumber": "1.4.3",
+      "filename": "Applied-Mekanistics-1.4.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7244/744/Applied-Mekanistics-1.4.3.jar",
+      "sha1": "8b37889d94b6c1ae5cd31ddde379a1c323c3c501",
+      "fileSize": 185707
     }
   },
   "dependents": [],
   "optionalDependents": [
-    "jjuIRIVr"
+    "622112"
   ],
   "clientSide": "required",
   "serverSide": "required"

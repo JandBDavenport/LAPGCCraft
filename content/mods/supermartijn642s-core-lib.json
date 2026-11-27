@@ -1,0 +1,24 @@
+{
+  "name": "SuperMartijn642's Core Lib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "454372",
+      "slug": "supermartijn642s-core-lib",
+      "versionId": "9689182",
+      "versionNumber": "SuperMartijn642's Core Lib 1.1.26b for Forge 1.20.1",
+      "filename": "supermartijn642corelib-1.1.26b-forge-mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9689/182/supermartijn642corelib-1.1.26b-forge-mc1.20.1.jar",
+      "sha1": "eaf6aab4c1168d3ed93f182c2974b0ac08e3f789",
+      "fileSize": 599964
+    }
+  },
+  "dependents": [
+    "301034"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

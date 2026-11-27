@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "o6qsdrrQ",
@@ -15,12 +15,22 @@
       "sha1": "cbd353ee0e2a35d122a758b9cbb26b2f54145f3f",
       "sha512": "9803fcf070327ed40316f8323ad7de83977a4ff8dc928c892836c8f49a9be3da6e9282aa85bf8bcf3467c4339f3d16dad5ec92d1a2e9bc9fc10bddba1ffc1190",
       "fileSize": 99445
+    },
+    "curseforge": {
+      "id": "927564",
+      "slug": "zume",
+      "versionId": "7983502",
+      "versionNumber": "1.2.2",
+      "filename": "zume-1.2.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7983/502/zume-1.2.2.jar",
+      "sha1": "cbd353ee0e2a35d122a758b9cbb26b2f54145f3f",
+      "fileSize": 99445
     }
   },
   "dependents": [],
   "optionalDependents": [
-    "KstN3eSL"
+    "969602"
   ],
   "clientSide": "required",
-  "serverSide": "unsupported"
+  "serverSide": "required"
 }

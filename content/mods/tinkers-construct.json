@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "rxIIYO6c",
@@ -15,10 +15,21 @@
       "sha1": "8a9a09e625ee106cf8befa953c372af4e955116c",
       "sha512": "e8b78225f379249b0edf0ddcb2b84aed4bf8712e1fb1a5faae9a17c0ac6ff2c697a684c0dd9b5ea4af1e0e2bfb3eeb206e1c16f4900a38d270592ced6115adea",
       "fileSize": 23870231
+    },
+    "curseforge": {
+      "id": "74072",
+      "slug": "tinkers-construct",
+      "versionId": "8944121",
+      "versionNumber": "Just Enough Update (3.12.1.231) for 1.20.1",
+      "filename": "TConstruct-1.20.1-3.12.1.231.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8944/121/TConstruct-1.20.1-3.12.1.231.jar",
+      "sha1": "8a9a09e625ee106cf8befa953c372af4e955116c",
+      "fileSize": 23870231
     }
   },
-  "dependents": [
-    "OOUmRYso"
+  "dependents": [],
+  "optionalDependents": [
+    "623969"
   ],
   "clientSide": "required",
   "serverSide": "required"

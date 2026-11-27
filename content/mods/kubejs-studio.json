@@ -3,21 +3,31 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "Hg4Bm0qD",
       "slug": "kubejs-studio",
-      "versionId": "vX68vL3E",
-      "versionNumber": "1.4.0+forge-1.20.1",
-      "filename": "kubejsstudio-forge-1.20.1-1.4.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Hg4Bm0qD/versions/vX68vL3E/kubejsstudio-forge-1.20.1-1.4.0.jar",
-      "sha1": "2ac96b52032e3371422ef7cd5182a06c84f5869c",
-      "sha512": "b66ec6445a3eab2b72e86ddcd706f88abdd448ce84bb930440b5ac4f584f13e9eca64f739e1d9e7b79d6d39515cd47e1259c7bc3df07f82740715d95b3c4d84a",
-      "fileSize": 7927255
+      "versionId": "9xcEFA8k",
+      "versionNumber": "1.3.0+forge-1.20.1",
+      "filename": "kubejsstudio-forge-1.20.1-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Hg4Bm0qD/versions/9xcEFA8k/kubejsstudio-forge-1.20.1-1.3.0.jar",
+      "sha1": "2ffe0b80336eefee766944996363cb80be00a774",
+      "sha512": "0beffd2967a94d7b515089d37f167b40bb056a814588d28114875c0333f3facbcdb70f4fd145ca7163f5de7d3c585e692c948690bad8f6b5de3c079e80312be4",
+      "fileSize": 7270883
+    },
+    "curseforge": {
+      "id": "1597398",
+      "slug": "kubejs-studio",
+      "versionId": "9011834",
+      "versionNumber": "KubeJS Studio 1.3.0 (Forge 1.20.1)",
+      "filename": "kubejsstudio-forge-1.20.1-1.3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9011/834/kubejsstudio-forge-1.20.1-1.3.0.jar",
+      "sha1": "2ffe0b80336eefee766944996363cb80be00a774",
+      "fileSize": 7270883
     }
   },
   "dependents": [],
   "clientSide": "required",
-  "serverSide": "unsupported"
+  "serverSide": "required"
 }

@@ -1,0 +1,33 @@
+{
+  "name": "Entangled",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "modrinth": {
+      "id": "rylMOguI",
+      "slug": "entangled",
+      "versionId": "QEzJrNGV",
+      "versionNumber": "1.3.21a-forge-mc1.20.4",
+      "filename": "entangled-1.3.21a-forge-mc1.20.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rylMOguI/versions/QEzJrNGV/entangled-1.3.21a-forge-mc1.20.4.jar",
+      "sha1": "56c96a8fbe70c601cba19acaea58f4cb325887c9",
+      "sha512": "b4049075eb6af08aa88ed80fdf82986370f434fb4779d6be78b538e7f86931baf1fefe36fc521b59c32fb534c35d37ad399080dc3e022cbfce2d7303c59db0b0",
+      "fileSize": 124716
+    },
+    "curseforge": {
+      "id": "301034",
+      "slug": "entangled",
+      "versionId": "9520166",
+      "versionNumber": "Entangled 1.3.21a for Forge 1.20.4",
+      "filename": "entangled-1.3.21a-forge-mc1.20.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9520/166/entangled-1.3.21a-forge-mc1.20.4.jar",
+      "sha1": "56c96a8fbe70c601cba19acaea58f4cb325887c9",
+      "fileSize": 124716
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "bN3xUWdo",
@@ -15,11 +15,19 @@
       "sha1": "e6346060ae70cbf103b231d8a1536bcd044c84a8",
       "sha512": "fec5107deb73c06c4b1756349cb874e0933c4181fd20e8528e46a24e35ccb048898c8607830deea3242d7303784a9c3a03f3fadd40d13fb6dc27a34a77f5cc85",
       "fileSize": 670934
+    },
+    "curseforge": {
+      "id": "616457",
+      "slug": "lodestone",
+      "versionId": "6213794",
+      "versionNumber": "lodestone-1.20.1-1.6.4.1.jar",
+      "filename": "lodestone-1.20.1-1.6.4.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6213/794/lodestone-1.20.1-1.6.4.1.jar",
+      "sha1": "e6346060ae70cbf103b231d8a1536bcd044c84a8",
+      "fileSize": 670934
     }
   },
-  "dependents": [
-    "jgzwYsAN"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "required"
 }

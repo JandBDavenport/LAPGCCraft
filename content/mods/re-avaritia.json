@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "QeB3NRC5",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/QeB3NRC5/versions/PIZk2hki/Re-Avaritia-forge-1.20.1-1.4.4-release.jar",
       "sha1": "833167d873c21af5d20771be322513c8849937d8",
       "sha512": "ede9a3b6bf2df6c9d97c7207a625f3b72ab671048fda582df4480f15943b6186a627305dc368c8d30db2f11c12bc51ceeb142a5d534cbd679e2cb8400da37801",
+      "fileSize": 4380014
+    },
+    "curseforge": {
+      "id": "623969",
+      "slug": "re-avaritia",
+      "versionId": "9567516",
+      "versionNumber": "Re:Avaritia 1.20.1-1.4.4-release",
+      "filename": "Re-Avaritia-forge-1.20.1-1.4.4-release.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9567/516/Re-Avaritia-forge-1.20.1-1.4.4-release.jar",
+      "sha1": "833167d873c21af5d20771be322513c8849937d8",
       "fileSize": 4380014
     }
   },

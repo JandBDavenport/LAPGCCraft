@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "iFDWVIFV",
@@ -15,10 +15,21 @@
       "sha1": "1378ba5f84267c18f945c52d787ac86e40d6c241",
       "sha512": "5cdf22a6343dcc5c3e59d622344120e4314cce0be98ee9c865c69c333b8bd449812de380b8142065ab7bf873a51607995b5f2d83f69212f285f14f774ea16d8a",
       "fileSize": 1358270
+    },
+    "curseforge": {
+      "id": "231382",
+      "slug": "brandons-core",
+      "versionId": "5422013",
+      "versionNumber": "Brandons Core 1.20.1-3.2.1.302",
+      "filename": "BrandonsCore-1.20.1-3.2.1.302-universal.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5422/13/BrandonsCore-1.20.1-3.2.1.302-universal.jar",
+      "sha1": "1378ba5f84267c18f945c52d787ac86e40d6c241",
+      "fileSize": 1358270
     }
   },
   "dependents": [
-    "nBqivi8H"
+    "223565",
+    "314515"
   ],
   "clientSide": "required",
   "serverSide": "required"
