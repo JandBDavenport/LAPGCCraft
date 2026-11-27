@@ -2,6 +2,7 @@
   "modPriorities": [
     "minecraft",
     "kubejs",
+    "gtceu",
     "crafttweaker",
     "thermal",
     "ae2",
@@ -10,7 +11,7 @@
     "immersiveengineering",
     "avaritia",
     "tconstruct",
-    "gtceu",
+    "enderio",
     "nuclearcraft"
   ],
   "tags": [

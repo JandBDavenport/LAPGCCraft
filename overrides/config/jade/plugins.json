@@ -58,6 +58,9 @@
   "entangled": {
     "entangled_block_component": true
   },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
+  },
   "avaritia": {
     "extreme_smithing": true,
     "crafting_table": true,
@@ -149,6 +152,9 @@
   },
   "enderio_evolution": {
     "capacitor_bank_render": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
   },
   "enderio_conduit_opt": {
     "conduit_info": true
