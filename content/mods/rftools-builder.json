@@ -1,0 +1,22 @@
+{
+  "name": "RFTools Builder",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "347706",
+      "slug": "rftools-builder",
+      "versionId": "9825561",
+      "versionNumber": "RFToolsBuilder - 1.20-6.0.13",
+      "filename": "rftoolsbuilder-1.20-6.0.13.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9825/561/rftoolsbuilder-1.20-6.0.13.jar",
+      "sha1": "8ac20a91bd5f78e612f227c67205194e3499d181",
+      "fileSize": 1010251
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "6bLUlbZn",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/6bLUlbZn/versions/6ByGTKSc/HostileNeuralNetworks-1.20.1-5.3.3.jar",
       "sha1": "ec0c77124e7e29c6d642410e3b7b3652a866aff5",
       "sha512": "b9d2ae44efd361eb91822f51f50644820f908425953e5b4d4f2a9c3c55e7f43275e1e3dbc8d8f40ca2d3b6a078ff6aa45127372874aaef4bd3d91c5cc25e285a",
+      "fileSize": 273495
+    },
+    "curseforge": {
+      "id": "552574",
+      "slug": "hostile-neural-networks",
+      "versionId": "5895036",
+      "versionNumber": "HostileNeuralNetworks-1.20.1-5.3.3.jar",
+      "filename": "HostileNeuralNetworks-1.20.1-5.3.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5895/36/HostileNeuralNetworks-1.20.1-5.3.3.jar",
+      "sha1": "ec0c77124e7e29c6d642410e3b7b3652a866aff5",
       "fileSize": 273495
     }
   },

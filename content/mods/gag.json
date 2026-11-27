@@ -1,0 +1,22 @@
+{
+  "name": "Gadgets Against Grind",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "694962",
+      "slug": "gag",
+      "versionId": "6120294",
+      "versionNumber": "GAG Forge 3.0.0-build.13",
+      "filename": "gag-forge-3.0.0-build.13.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6120/294/gag-forge-3.0.0-build.13.jar",
+      "sha1": "13c1dc8d5cf0c2c69beeb91743d8da8098582d77",
+      "fileSize": 190621
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

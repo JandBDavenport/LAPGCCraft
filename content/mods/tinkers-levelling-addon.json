@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "OOUmRYso",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/OOUmRYso/versions/RMlDwRd0/TinkersLevellingAddon-1.20.1-1.5.0.jar",
       "sha1": "1ea1237699ec0b70d640185595e0facf597f3ba3",
       "sha512": "61b42679299f7bc06d46d0c6b1f1328f1bf5f4f48374bcdfc434594a81e8603c48889da8d2db0e595f50495cfe89657aaa61d40e6f4d563c16b8b9712e4a44ef",
+      "fileSize": 357074
+    },
+    "curseforge": {
+      "id": "709416",
+      "slug": "tinkers-levelling-addon",
+      "versionId": "9230312",
+      "versionNumber": "TinkersLevellingAddon-1.20.1-1.5.0.jar",
+      "filename": "TinkersLevellingAddon-1.20.1-1.5.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9230/312/TinkersLevellingAddon-1.20.1-1.5.0.jar",
+      "sha1": "1ea1237699ec0b70d640185595e0facf597f3ba3",
       "fileSize": 357074
     }
   },

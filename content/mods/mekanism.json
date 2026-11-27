@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "Ce6I4WUE",
@@ -15,14 +15,26 @@
       "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158",
       "sha512": "a838bb3fa5550ba3589a81005fde2ca04b5d33417ae65a8060bbc46ba948dec2d16ab0871a55e73e0ca39651b33814eb508b5b85d337e6ed8874b79383f3e6f0",
       "fileSize": 12558456
+    },
+    "curseforge": {
+      "id": "268560",
+      "slug": "mekanism",
+      "versionId": "6552911",
+      "versionNumber": "Mekanism-1.20.1-10.4.16.80.jar",
+      "filename": "Mekanism-1.20.1-10.4.16.80.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6552/911/Mekanism-1.20.1-10.4.16.80.jar",
+      "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158",
+      "fileSize": 12558456
     }
   },
   "dependents": [
-    "IiATswDj",
-    "OFVYKsAk"
+    "268566",
+    "574300"
   ],
   "optionalDependents": [
-    "49ZofO4f"
+    "443900",
+    "623969",
+    "64578"
   ],
   "clientSide": "required",
   "serverSide": "required"

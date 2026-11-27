@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "OvPZ16yX",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/OvPZ16yX/versions/MukABB2q/entityjs-forge-0.7.5.jar",
       "sha1": "503eeda3a05c445400c9a8dc731785e9c4bce63c",
       "sha512": "b696c9803759048f21340f1c79914eecf7cf6064ef9fac46a1838aa9b1d3325f5a38b037999950e5ed037c9cd186d5f806b64e332611925fc9d5f0ce32c8315f",
+      "fileSize": 3680864
+    },
+    "curseforge": {
+      "id": "967617",
+      "slug": "entityjs",
+      "versionId": "9021961",
+      "versionNumber": "entityjs-forge-0.7.5.jar",
+      "filename": "entityjs-forge-0.7.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9021/961/entityjs-forge-0.7.5.jar",
+      "sha1": "503eeda3a05c445400c9a8dc731785e9c4bce63c",
       "fileSize": 3680864
     }
   },

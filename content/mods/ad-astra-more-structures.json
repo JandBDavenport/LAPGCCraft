@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "1Z4JHpyZ",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/1Z4JHpyZ/versions/WqWSCvfG/ad_astra_more_structures-1.20.1-forge.jar",
       "sha1": "7987f57d1bf0771cdb4a20aad289623c51a33e62",
       "sha512": "fb81668ed67e892e2eafebe86260910db225cdc061f721554147bae5e2e8f3555d292724d05a905ce542b62aefb7f55a5e6c745025138f1ebd2c39cdd8746efd",
+      "fileSize": 566446
+    },
+    "curseforge": {
+      "id": "1311898",
+      "slug": "ad-astra-more-structures",
+      "versionId": "8324466",
+      "versionNumber": "Ad Astra More Structures - 1.0.2 [Forge]",
+      "filename": "ad_astra_more_structures-1.20.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8324/466/ad_astra_more_structures-1.20.1-forge.jar",
+      "sha1": "7987f57d1bf0771cdb4a20aad289623c51a33e62",
       "fileSize": 566446
     }
   },

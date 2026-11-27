@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "OWSRM4vD",
@@ -15,10 +15,20 @@
       "sha1": "6f7c0056fece31bf393df450d79482810ed444af",
       "sha512": "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2078e220fe33891384abc40e1a705affe9d77ae4e35cf60185e07c11a73",
       "fileSize": 1509649
+    },
+    "curseforge": {
+      "id": "69162",
+      "slug": "cofh-core",
+      "versionId": "5374122",
+      "versionNumber": "cofh_core-1.20.1-11.0.2.56.jar",
+      "filename": "cofh_core-1.20.1-11.0.2.56.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5374/122/cofh_core-1.20.1-11.0.2.56.jar",
+      "sha1": "6f7c0056fece31bf393df450d79482810ed444af",
+      "fileSize": 1509649
     }
   },
   "dependents": [
-    "Xvg6q5Wp"
+    "222880"
   ],
   "clientSide": "required",
   "serverSide": "required"

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "uXXizFIs",
@@ -15,9 +15,19 @@
       "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
       "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
       "fileSize": 123034
+    },
+    "curseforge": {
+      "id": "429235",
+      "slug": "ferritecore",
+      "versionId": "4810975",
+      "versionNumber": "ferritecore-6.0.1-forge.jar",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "fileSize": 123034
     }
   },
   "dependents": [],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "clientSide": "required",
+  "serverSide": "required"
 }

@@ -1,0 +1,22 @@
+{
+  "name": "RFTools Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "350006",
+      "slug": "rftools-storage",
+      "versionId": "9787627",
+      "versionNumber": "RFToolsStorage - 1.20-5.0.6",
+      "filename": "rftoolsstorage-1.20-5.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9787/627/rftoolsstorage-1.20-5.0.6.jar",
+      "sha1": "cb6902017100d69c500c4fb7b50f5c25d23287a3",
+      "fileSize": 375958
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

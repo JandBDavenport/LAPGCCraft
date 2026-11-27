@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "fRiHVvU7",
@@ -15,16 +15,27 @@
       "sha1": "ea320200878e4a49196760234a22da763671520a",
       "sha512": "02743be3476b7dc5668cedbcc5a6d384e9806981833926a83fed76a2800c44da33576e86308c058250718c128d58076f1b62bc53d200464326ace70a43229c8b",
       "fileSize": 1121750
+    },
+    "curseforge": {
+      "id": "580555",
+      "slug": "emi",
+      "versionId": "8081375",
+      "versionNumber": "emi-1.1.24+1.20.1+forge",
+      "filename": "emi-1.1.24+1.20.1+forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8081/375/emi-1.1.24%2b1.20.1%2bforge.jar",
+      "sha1": "ea320200878e4a49196760234a22da763671520a",
+      "fileSize": 1121750
     }
   },
   "dependents": [
     "1727144",
-    "sG4TqDb8"
+    "974009"
   ],
   "optionalDependents": [
-    "7tG215v7",
-    "Hg4Bm0qD"
+    "1597398",
+    "1752806",
+    "890405"
   ],
   "clientSide": "required",
-  "serverSide": "optional"
+  "serverSide": "required"
 }

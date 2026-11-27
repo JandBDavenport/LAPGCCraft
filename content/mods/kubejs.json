@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "umyGl7zF",
@@ -15,20 +15,32 @@
       "sha1": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae",
       "sha512": "71ef9e5eb5f3bead86b635b42ad305d075c6487e631217b281d938193dcdc5fe0ff6bae8c86dd4e069726223a66e8690c0610f736c5a62910f60fd80edd575c1",
       "fileSize": 1658792
+    },
+    "curseforge": {
+      "id": "238086",
+      "slug": "kubejs",
+      "versionId": "8020595",
+      "versionNumber": "KubeJS Forge 2001.6.5-build.26",
+      "filename": "kubejs-forge-2001.6.5-build.26.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8020/595/kubejs-forge-2001.6.5-build.26.jar",
+      "sha1": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae",
+      "fileSize": 1658792
     }
   },
   "dependents": [
+    "1597398",
     "1624204",
+    "421694",
     "838378",
     "934206",
-    "Hg4Bm0qD",
-    "OvPZ16yX",
-    "taN3HInZ"
+    "967617"
   ],
   "optionalDependents": [
-    "7tG215v7",
-    "sdaSaQEz"
+    "1752806",
+    "623969",
+    "633823",
+    "890405"
   ],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "clientSide": "required",
+  "serverSide": "required"
 }

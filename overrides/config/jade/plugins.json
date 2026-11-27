@@ -55,6 +55,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "avaritia": {
     "extreme_smithing": true,
     "crafting_table": true,
@@ -159,6 +162,9 @@
     "slurry": true,
     "energy": true,
     "tooltip_renderer": true
+  },
+  "embersquesting": {
+    "quest_block": true
   },
   "pipez": {
     "pipe": true

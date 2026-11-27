@@ -19,6 +19,9 @@
   "dependents": [
     "314906"
   ],
+  "optionalDependents": [
+    "1752806"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

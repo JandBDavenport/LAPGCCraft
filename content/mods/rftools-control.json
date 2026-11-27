@@ -1,0 +1,22 @@
+{
+  "name": "RFTools Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "250763",
+      "slug": "rftools-control",
+      "versionId": "9823133",
+      "versionNumber": "RFToolsControl - 1.20-7.0.5",
+      "filename": "rftoolscontrol-1.20-7.0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9823/133/rftoolscontrol-1.20-7.0.5.jar",
+      "sha1": "2737c72bbe3d48b3028d1a8ec818f367928d3b4b",
+      "fileSize": 601475
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

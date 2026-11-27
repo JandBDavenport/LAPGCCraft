@@ -73,3 +73,10 @@ overrides/defaultconfigs/ftbchunks/client-config.snbt
 overrides/defaultconfigs/ftblibrary/ftblibrary-client.snbt
 overrides/patchouli_data.json
 overrides/config/Mekanism/client.toml
+overrides/config/sophisticatedstorage-common.toml
+overrides/config/sophisticatedstorage-client.toml
+overrides/config/sophisticatedcore-client.toml
+overrides/config/rftoolsutility-client.toml
+overrides/config/rftoolsstorage-client.toml
+overrides/config/rftoolsbuilder-client.toml
+overrides/config/forestry-client.toml

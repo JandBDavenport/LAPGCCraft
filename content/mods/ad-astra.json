@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "3ufwT9JF",
@@ -15,10 +15,20 @@
       "sha1": "562b28ad84cde481f857562c7991a8750b814e24",
       "sha512": "213618602ab86f3e0305be6d9a2e47d3516fd12a3f46767719db4842a6abe230284b9f402d026ad67b39336f6ee80f7502ebab5128c605d665b8c165c877c98f",
       "fileSize": 7508773
+    },
+    "curseforge": {
+      "id": "635042",
+      "slug": "ad-astra",
+      "versionId": "8833730",
+      "versionNumber": "ad_astra-forge-1.20.1-1.15.21.jar",
+      "filename": "ad_astra-forge-1.20.1-1.15.21.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8833/730/ad_astra-forge-1.20.1-1.15.21.jar",
+      "sha1": "562b28ad84cde481f857562c7991a8750b814e24",
+      "fileSize": 7508773
     }
   },
   "dependents": [
-    "1Z4JHpyZ",
+    "1311898",
     "957097"
   ],
   "clientSide": "required",

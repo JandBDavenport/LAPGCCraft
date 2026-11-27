@@ -1,0 +1,22 @@
+{
+  "name": "RFTools Power",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "290209",
+      "slug": "rftools-power",
+      "versionId": "9769022",
+      "versionNumber": "RFToolsPower - 1.20-6.0.6",
+      "filename": "rftoolspower-1.20-6.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9769/22/rftoolspower-1.20-6.0.6.jar",
+      "sha1": "7173cd1449508502e902687bc589db8f42367463",
+      "fileSize": 561302
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

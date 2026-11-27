@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "fJFETWDN",
@@ -15,9 +15,19 @@
       "sha1": "804deb0bd34d69cad873170642b9d7e47fa0d6ad",
       "sha512": "c03a07caf451a272f8027a47bb951db73f19bb24d603b61f0328a1769568a98f3912ec6b7bf39218062add102cb8fa7b29ae4ca73731cfa2db09eaac8fcf1033",
       "fileSize": 242267
+    },
+    "curseforge": {
+      "id": "570630",
+      "slug": "lootjs",
+      "versionId": "7551186",
+      "versionNumber": "LootJS-Forge-1.20.1-2.13.1",
+      "filename": "lootjs-forge-1.20.1-2.13.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7551/186/lootjs-forge-1.20.1-2.13.1.jar",
+      "sha1": "804deb0bd34d69cad873170642b9d7e47fa0d6ad",
+      "fileSize": 242267
     }
   },
   "dependents": [],
-  "clientSide": "unsupported",
+  "clientSide": "required",
   "serverSide": "required"
 }

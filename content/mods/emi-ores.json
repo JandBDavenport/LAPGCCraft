@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "sG4TqDb8",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/sG4TqDb8/versions/JeMEQHWY/emi_ores-1.3%2B1.20.1%2Bforge.jar",
       "sha1": "28ba16619a1fbcbf46f9ed327e8dc7ae339439ac",
       "sha512": "d752ee90f88e9f310c26bb52b3ba438942c820b21cf9a9783b6828c0555b28fa0d6ed26327d483dfe4b1314d0ee4d1315c9e6d4b603ec359cd9034a00a04387d",
+      "fileSize": 119983
+    },
+    "curseforge": {
+      "id": "974009",
+      "slug": "emi-ores",
+      "versionId": "8254299",
+      "versionNumber": "emi_ores-1.3+1.20.1+forge.jar",
+      "filename": "emi_ores-1.3+1.20.1+forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8254/299/emi_ores-1.3%2b1.20.1%2bforge.jar",
+      "sha1": "28ba16619a1fbcbf46f9ed327e8dc7ae339439ac",
       "fileSize": 119983
     }
   },

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "49ZofO4f",
@@ -15,11 +15,24 @@
       "sha1": "33587f98f2d96507de0e9d2f57f5ab35328ace7d",
       "sha512": "343b5b06a5dd2d8c0d08743229a153d75d19f6587f6a6b4d3a26873cf754d24c2f9e8a113e168f4b1258a10f132d9f820feb6a030bd111ab5377916a64dcb9dc",
       "fileSize": 8086393
+    },
+    "curseforge": {
+      "id": "64578",
+      "slug": "ender-io",
+      "versionId": "7726916",
+      "versionNumber": "Ender IO - 6.2.18-beta",
+      "filename": "EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7726/916/EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "sha1": "33587f98f2d96507de0e9d2f57f5ab35328ace7d",
+      "fileSize": 8086393
     }
   },
   "dependents": [
     "1453074",
     "1575307"
+  ],
+  "optionalDependents": [
+    "623969"
   ],
   "clientSide": "required",
   "serverSide": "required"

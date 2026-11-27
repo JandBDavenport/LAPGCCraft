@@ -10,15 +10,15 @@
     },
     {
       "path": "content/mods/ad-astra-more-structures.json",
-      "sha1": "7d6f450342288b5dfb6b617a19094dc65d749652"
+      "sha1": "2ae4e2992e85363b695a03db7880ce57ee187158"
     },
     {
       "path": "content/mods/ad-astra.json",
-      "sha1": "dffba5fee02696b48cb3250c94735cd33f178129"
+      "sha1": "fcb3d7c5c34f39709f0129a7aa039ae8ce67d0fb"
     },
     {
       "path": "content/mods/ae2.json",
-      "sha1": "e9327fc5e27c345e14b4f617b989caed15cbd165"
+      "sha1": "84e19bcea431e2dd5405ca3202fa03747783fd7d"
     },
     {
       "path": "content/mods/almost-fluidified.json",
@@ -26,47 +26,47 @@
     },
     {
       "path": "content/mods/almostunified.json",
-      "sha1": "6713c996b7827254e2911db6abc997c7ee146d77"
+      "sha1": "9a45e1f617200fa6376827e2a83391322152b882"
     },
     {
       "path": "content/mods/appleskin.json",
-      "sha1": "74b3eaf493a548ceac7a935b11d4f900fdd4a6be"
+      "sha1": "43f39232d99f5427aa3750714f8f2dfd74888901"
     },
     {
       "path": "content/mods/applied-mekanistics.json",
-      "sha1": "fc8084e31b18885673c0ad12fd8b944c9c2ce15b"
+      "sha1": "b4f8b93f191e45d6fc7039e6ff1893d340c2cc4a"
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "7cdf3d2ddb06364268752e4492693319ac015f3a"
+      "sha1": "ce562d6f508d5f718756d1b7c4fff7677ccf2ed1"
     },
     {
       "path": "content/mods/ars-nouveau.json",
-      "sha1": "170ffdad1db5bbffbeb4b0fafcebd3205778a7e5"
+      "sha1": "0ff14b74de102a766e1e4641ecb89b6bc873ceb6"
     },
     {
-      "path": "content/mods/balm-2.json",
-      "sha1": "18d172d555af6776586e6d641cd09db8b1870152"
+      "path": "content/mods/balm.json",
+      "sha1": "cc3c6b822b1eea0f42689c1ced376eab2d529d6f"
     },
     {
       "path": "content/mods/blood-magic.json",
-      "sha1": "cced4231aaa1eec3dae62c82056b74e7075bab1f"
+      "sha1": "e02772d0cc734edb0b43b1c5a3c8ea737be77c0f"
     },
     {
       "path": "content/mods/bookshelf-lib.json",
-      "sha1": "0a74f0212d875e51378a42c14a2af3b33de1a619"
+      "sha1": "d291d86bb64e6ea95090238645ff0b7f5afbd2b6"
     },
     {
       "path": "content/mods/botania.json",
-      "sha1": "f1092e99e15623fc9f9c667322ecf1bfad07aefa"
+      "sha1": "e8d5a590537d5f81c7c85932944de73d21a3b31c"
     },
     {
       "path": "content/mods/botarium.json",
-      "sha1": "9ddb2d758514a289f25f2be527fefd30d688c3aa"
+      "sha1": "72c4a459a3aa1b44f7331b76346df69167ba6398"
     },
     {
       "path": "content/mods/brandons-core.json",
-      "sha1": "37ea20d8c9fa33ee8ba2ad68c1d41d85fa1848dd"
+      "sha1": "df1970ca62571f4fcefec3e73b248c81385f7d29"
     },
     {
       "path": "content/mods/building-gadgets.json",
@@ -74,7 +74,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "1ebfa35b25f63146874a1929a9fe679dba03c522"
+      "sha1": "f4465cf09e5628185c9f60aaf75a07b9f4209871"
     },
     {
       "path": "content/mods/clumps.json",
@@ -82,11 +82,11 @@
     },
     {
       "path": "content/mods/codechicken-lib.json",
-      "sha1": "24b64e92dbde0efc69c8ea2ec92416325b722a23"
+      "sha1": "a72825e539ee054e5b7387f14e7aa265e71f20e2"
     },
     {
       "path": "content/mods/cofh-core.json",
-      "sha1": "11e82cf19c1d4ae001605412f58c0dcd89aa1cfe"
+      "sha1": "a1bd08c04d9f465c54a068d9ee50377e9240b4e5"
     },
     {
       "path": "content/mods/common-capabilities.json",
@@ -98,15 +98,15 @@
     },
     {
       "path": "content/mods/cucumber.json",
-      "sha1": "e7780fdff56b60d20a009298d4fbfcaefedb6249"
+      "sha1": "3f96feac37f43f862a57b581cf54feecf0fe69e5"
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "e8f9f6566a0316fb0f0ea47bf569e580803eb87d"
+      "sha1": "bf94a61bbd54746049c944a467fd1ba2ce3d42fc"
     },
     {
       "path": "content/mods/curvy-pipes.json",
-      "sha1": "cd67170bc6612ceb39cfbe1e32e1f266497abb43"
+      "sha1": "d2316ef0bd8b24bc0ded001570cedf6da8497487"
     },
     {
       "path": "content/mods/cyclops-core.json",
@@ -114,31 +114,39 @@
     },
     {
       "path": "content/mods/dpanvil.json",
-      "sha1": "91e060f0e4ab1989b63c7299489ff3b657c1a247"
+      "sha1": "3687183bab9a7000650dedf53314edfee29cd964"
     },
     {
       "path": "content/mods/draconic-evolution.json",
-      "sha1": "9d3f96c50b5e7bd3295609c61e050d133d43ae42"
+      "sha1": "4ea9a3b66f1918eca4c8cb3107815fb69f15f65e"
+    },
+    {
+      "path": "content/mods/draconicadditions.json",
+      "sha1": "e96cc9a88efd49ebdb877400895c0f001de283be"
     },
     {
       "path": "content/mods/elemental-craft.json",
-      "sha1": "fe1e0cd6b55847f5978b14f7a015162fb0fd4714"
+      "sha1": "7ab1179eb6d4fbbf5cd5562a225eaa90f7216275"
     },
     {
       "path": "content/mods/embeddium.json",
-      "sha1": "325f679f8e469a2fc1dffe62b840af5f71838708"
+      "sha1": "d9efc5da1cd43f6e16e8e875585cac9d2b7e41ae"
+    },
+    {
+      "path": "content/mods/embers-questing.json",
+      "sha1": "c74cc987e1fc56bebcca89f86a7aec75187a87c9"
     },
     {
       "path": "content/mods/emi-ores.json",
-      "sha1": "ed96425ca540141fdbbcd59791314cb20fb856fb"
+      "sha1": "d8586de5efbb269110766ff833b2bbfbcee7c1b4"
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "d62501e7f91ba91188bac075c9d34eb74981c5c8"
+      "sha1": "24d12346466e8f90277cc9aa8c96aab2ac5ebf80"
     },
     {
       "path": "content/mods/enchantment-descriptions.json",
-      "sha1": "d6e2eacaabbdf34b2b372c13b24aea726db949f9"
+      "sha1": "40b3f693a9422db1085b979508ef164cae8c504c"
     },
     {
       "path": "content/mods/ender-io-conduit-optimizer.json",
@@ -150,11 +158,15 @@
     },
     {
       "path": "content/mods/enderio.json",
-      "sha1": "7745b92871ecf5b7429d9d10f9d92fd4479106e2"
+      "sha1": "2df2e7ac53194a7e2de78ddec823d49984344974"
+    },
+    {
+      "path": "content/mods/entangled.json",
+      "sha1": "656918f6b0a55ec9e4cdc54efde1d8860a65e0a0"
     },
     {
       "path": "content/mods/entityjs.json",
-      "sha1": "d7528bab92cf5c1c858d0deb265786239fa0ce30"
+      "sha1": "ae2025566c38ca98c64b88be27dab6701cf637ff"
     },
     {
       "path": "content/mods/evilcraft.json",
@@ -166,11 +178,15 @@
     },
     {
       "path": "content/mods/ferrite-core.json",
-      "sha1": "9e0ee4ac64e78d92cc1b3d5f9542b0d193fd443c"
+      "sha1": "b15d7d02409a49d51004a699d944e71d5508dc2a"
     },
     {
       "path": "content/mods/flux-networks.json",
-      "sha1": "2bf97aa9dd1b0749bc39a897e16922397bb26941"
+      "sha1": "6ce2a2bfd4162f48337a930ef42a0e6b8e0aec25"
+    },
+    {
+      "path": "content/mods/forestry-community-edition.json",
+      "sha1": "6a1bb4f5db2a52ea37382b776ff55e5a9aa76836"
     },
     {
       "path": "content/mods/ftb-backups-2.json",
@@ -178,39 +194,55 @@
     },
     {
       "path": "content/mods/ftb-chunks-forge.json",
-      "sha1": "c32d0de79f19f806bd14cf55604d027b4d5d3264"
+      "sha1": "3abcc9948aacd1ac5c2a5d6d69914e2a158872e3"
     },
     {
       "path": "content/mods/ftb-library-forge.json",
-      "sha1": "5396e72d5108086d10155293241bbbd44990ef75"
+      "sha1": "f298596b3cd6d2a3a7884d091c6fbcbaade18aea"
     },
     {
       "path": "content/mods/ftb-teams-forge.json",
-      "sha1": "0fb9d21be064833b64e8b9547268907dc9b70e49"
+      "sha1": "fe008c5e72bf4d4486770cca2fd391752719d045"
     },
     {
-      "path": "content/mods/geckolib-2.json",
-      "sha1": "5785b9ea9e64532724dae753a4d601fe558c21c8"
+      "path": "content/mods/gag.json",
+      "sha1": "f561ba195d82a35b757969519c37d91b65814a3e"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "819933036c9833a86e30a06f0c9f3fb528473814"
+    },
+    {
+      "path": "content/mods/gendustry-community-edition.json",
+      "sha1": "e8ceb89fae63675dd6acf200db072a31f2a0d708"
     },
     {
       "path": "content/mods/gregtechceu-modern.json",
-      "sha1": "3d2e472a4c22cf609f904e3239f5b00a5f742516"
+      "sha1": "5d95cc6b375114811cb595724c7c9a37a218b622"
     },
     {
       "path": "content/mods/guideme.json",
-      "sha1": "389fc5e6fc79177b44f29224d3f9a089d831c1a0"
+      "sha1": "31dfeec64895050c3bf1ff4ad8d933947d584602"
     },
     {
       "path": "content/mods/hostile-neural-networks.json",
-      "sha1": "72c5f4752edbb212a397513b5dfa1f6d3c654368"
+      "sha1": "006e37ffd7c2a2df1eb9fd8634d0de92058cada7"
     },
     {
       "path": "content/mods/immediatelyfast.json",
-      "sha1": "71ed50385c4976d3e611db4c29118830124a5c11"
+      "sha1": "ca6ec0b132fd2277b870602f1bd554a2fa973750"
+    },
+    {
+      "path": "content/mods/industrial-foregoing.json",
+      "sha1": "f4cae33a17281941ad04bdea3d1e0ee8d74d845e"
     },
     {
       "path": "content/mods/integrated-dynamics.json",
       "sha1": "5cd42017634d217c52d62a224c4128a89d7406fe"
+    },
+    {
+      "path": "content/mods/iron-chests.json",
+      "sha1": "b53c20f7bddf7bfbb5d5a2241a103ae7468401cb"
     },
     {
       "path": "content/mods/iron-furnaces.json",
@@ -218,15 +250,15 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "d04a8f58bae31947e4e03441cdd8ac99ce123596"
+      "sha1": "42a0e8746ee0ec00c1e331af9747f59bffd370f5"
     },
     {
       "path": "content/mods/journeymap.json",
-      "sha1": "8f1a565f901d4d6d91c6718d4edc13a55eea883a"
+      "sha1": "d58d8497e9766fb2fdc1a9eab78f97d5a3658925"
     },
     {
       "path": "content/mods/kotlin-for-forge-2.json",
-      "sha1": "cd6b56d82f74761a11724a184b5c1c066fade5fd"
+      "sha1": "6399a87bef01a7453360cfbfb523e03bacab1c13"
     },
     {
       "path": "content/mods/kubejs-addon-blood-magic.json",
@@ -242,35 +274,35 @@
     },
     {
       "path": "content/mods/kubejs-studio.json",
-      "sha1": "50541ed25f2acc6c56b386dca07d49b8abd4afba"
+      "sha1": "17463846b540ceef264e089bcc3fe8b4b8dd3078"
     },
     {
       "path": "content/mods/kubejs-thermal.json",
-      "sha1": "0307af8afac430167a7056183bd055224eb06386"
+      "sha1": "07bea13877ac41c234aa572c578cabcbe1bf5c5e"
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "270dbbec02101fe162dec401ee61ea0e759f4983"
+      "sha1": "d4a75a42a7061a6eb63246b8857182fce23d74bd"
     },
     {
       "path": "content/mods/ldlib.json",
-      "sha1": "37617d682251254dbb10a6bcb1069146c65d246b"
+      "sha1": "731a8c408fdcd4f34a5f5e5d5d6d7c44403c925c"
     },
     {
       "path": "content/mods/lodestonelib.json",
-      "sha1": "a622f2dd7c8c0ca4628ac211250c316570e580d1"
+      "sha1": "ffbd4656bc6b5bed7c0b6dabb377fdf5f2585b0c"
     },
     {
       "path": "content/mods/lootjs.json",
-      "sha1": "c90c44d4c1c710a2d29ff788130a74b991952bb2"
+      "sha1": "69fea8febeb0c6988175244e8148d0998463f69e"
     },
     {
       "path": "content/mods/malum.json",
-      "sha1": "8d3438f5cae41f3a192f92e64764c76243c0e076"
+      "sha1": "ed04387a441cfaa36ede91acad84cdf69f565e2f"
     },
     {
       "path": "content/mods/mantle.json",
-      "sha1": "faa67e860ebbe0929e976b0e3873c3c37af11d76"
+      "sha1": "db0045c6923c6fa08c3e1c9971d4c376ed6a89cd"
     },
     {
       "path": "content/mods/matter-manipulator-reborn.json",
@@ -278,19 +310,23 @@
     },
     {
       "path": "content/mods/mcjtylib.json",
-      "sha1": "ce7064b93edabd02a6dbcdf8aca5f1082f7e12f6"
+      "sha1": "2e0d48234aadcfd7e96d26886ccd57e64c3d00e1"
     },
     {
       "path": "content/mods/mega.json",
-      "sha1": "9aebe7a5f0016b0758d8d94c7935427ad6721fff"
+      "sha1": "f112b45973e83b86214f186268a5199ba093935b"
     },
     {
       "path": "content/mods/mekanism-generators.json",
-      "sha1": "23f05e099dce6ff03de50b949d81c1069dcd04a4"
+      "sha1": "de4163ee688025879860543e08a39a73c550e6d1"
     },
     {
       "path": "content/mods/mekanism.json",
-      "sha1": "da7e3cbd0851a8c8606c0cfa8c10879f533a4ac5"
+      "sha1": "a3a53b724a9e52ad087d9b4475cc0b134ffe1968"
+    },
+    {
+      "path": "content/mods/mifa.json",
+      "sha1": "691251458b52e6deb5c067e6d875548f170519cb"
     },
     {
       "path": "content/mods/mmd-orespawn.json",
@@ -302,15 +338,15 @@
     },
     {
       "path": "content/mods/modernfix.json",
-      "sha1": "75195b4a4c22cfbb5d6363374a120174c9a72cfa"
+      "sha1": "25489caaa1a859266db4b29b67b62cdcd4888e80"
     },
     {
       "path": "content/mods/modonomicon.json",
-      "sha1": "b798035e0d2461cb6db829364c584179a230b726"
+      "sha1": "5ec1c66cbf64b66a790a43e326b89c223635a4de"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
-      "sha1": "0ab6745b40270ed957263ba59f6d8b0568f93e46"
+      "sha1": "58b2a64cd3c84f1e85dab1e75e297b49cb9345d1"
     },
     {
       "path": "content/mods/multiblocked2-unofficial.json",
@@ -318,19 +354,19 @@
     },
     {
       "path": "content/mods/natures-aura.json",
-      "sha1": "b0f987ee3baf0997b123deb2c718a140ef61d0e8"
+      "sha1": "aea4fc0932444652b254b8facf01aa795a965371"
     },
     {
       "path": "content/mods/nolijium.json",
-      "sha1": "5d4d7eeda646a7bd972a40554d148b2dbc86cfb5"
+      "sha1": "6f5583317c1fe5be6faf9fb9faf57fa211e68b4f"
     },
     {
       "path": "content/mods/nuclearcraft-neoteric.json",
-      "sha1": "b55a0e367f8b258dc81ef5af9436e1811af77ec6"
+      "sha1": "f437a4e6fb058bf15ae3651f3036aa3e453ff750"
     },
     {
       "path": "content/mods/patchouli.json",
-      "sha1": "6cce87d1f717a3f394b0ba338de553716f4bd72b"
+      "sha1": "a1e78cfcebb9efcbd2ad822effb855336a4d23b9"
     },
     {
       "path": "content/mods/pipez.json",
@@ -338,7 +374,7 @@
     },
     {
       "path": "content/mods/placebo.json",
-      "sha1": "12c43e13d11df96675677501885604be05b0bfad"
+      "sha1": "7169eaf997d16d71400b929f074e8f85e9a41c58"
     },
     {
       "path": "content/mods/polylib.json",
@@ -346,31 +382,51 @@
     },
     {
       "path": "content/mods/polymorph.json",
-      "sha1": "20f33a76cd51afc0cb915e9096452e229741b992"
+      "sha1": "063319d775cb4d964c6d4890f1ee73ba6c40b20d"
     },
     {
       "path": "content/mods/powah.json",
-      "sha1": "09eab3464b8d7632e536b7a190bd3ff43d43f998"
+      "sha1": "48878dde5b2281003309b4ec450cc59e24742bb4"
     },
     {
       "path": "content/mods/re-avaritia.json",
-      "sha1": "de2144c483ff3c3e973672dcfede71804f97b733"
+      "sha1": "2948630ff66197e133c1d9136f160358413f2d0e"
     },
     {
       "path": "content/mods/resourceful-config.json",
-      "sha1": "d6ac05f4dae4938c33fc01e785331878a4dafab1"
+      "sha1": "9d6b6e1827ee00ceb13f7e90c0c88e4c8695170f"
     },
     {
       "path": "content/mods/resourceful-lib.json",
-      "sha1": "283b26e5705a19515bbbabb6939135c2386ec1e2"
+      "sha1": "b8b507f4870aae5092bb60977acb33b2c47e2fea"
     },
     {
       "path": "content/mods/rftools-base.json",
-      "sha1": "4088d6a9e44310a6cdfd0006b7c6e63c13dc0b70"
+      "sha1": "3197e7c3dd2777ffb04064fc83f29e878a3a4d40"
+    },
+    {
+      "path": "content/mods/rftools-builder.json",
+      "sha1": "5bdf25a77925b89777a36d93e913a6a9f03957c8"
+    },
+    {
+      "path": "content/mods/rftools-control.json",
+      "sha1": "59ad490f27995abc4ab45788b8620552ec0e0418"
+    },
+    {
+      "path": "content/mods/rftools-power.json",
+      "sha1": "28f4077dcfb27c2ed4920b7ddf1cc3260d50d3b8"
+    },
+    {
+      "path": "content/mods/rftools-storage.json",
+      "sha1": "7aebc668b8714f6a35f2aa54590218541c3623b5"
+    },
+    {
+      "path": "content/mods/rftools-utility.json",
+      "sha1": "15083dfcfb9770ad6fc98ef6939ce9497ee0b763"
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "3b25ee90fe6540670fa78b6d6b487a5c2198d69c"
+      "sha1": "3b78968ec9b54e1b53fc4d9df80d86149c716900"
     },
     {
       "path": "content/mods/searchables.json",
@@ -381,36 +437,56 @@
       "sha1": "4e430faf4be1582612a7f1c313a232f255cef01e"
     },
     {
+      "path": "content/mods/sophisticated-core.json",
+      "sha1": "696ef25a51ec4f385abbcf02851add8a3a4a033a"
+    },
+    {
+      "path": "content/mods/sophisticated-storage.json",
+      "sha1": "43b9eafd17d9ccabc422e56e0866acda14bb2744"
+    },
+    {
       "path": "content/mods/storage-drawers.json",
-      "sha1": "913e1b449b1163f9cca7d09a11bb5574e9441e17"
+      "sha1": "0cc7db5bcd03e27ec71feb5ce4f5f1ae67a35655"
+    },
+    {
+      "path": "content/mods/supermartijn642s-config-lib.json",
+      "sha1": "d22e29c7bf08256865d61a209b929c54d56b6402"
+    },
+    {
+      "path": "content/mods/supermartijn642s-core-lib.json",
+      "sha1": "be13c73d7eb9a94089f928c9e95fca4757a1f707"
     },
     {
       "path": "content/mods/thermal-cultivation.json",
-      "sha1": "81360525bdee15f8bbd3b2ea03272e1a635f6e64"
+      "sha1": "a42f223c4771c479f8b9e025f6657f0eda72544c"
     },
     {
       "path": "content/mods/thermal-dynamics.json",
-      "sha1": "6023160cdf082da47292d7e7cfc032e3c3abeeb8"
+      "sha1": "b5006975bd59e695963ec6071ccdf4b70446dd0a"
     },
     {
       "path": "content/mods/thermal-expansion.json",
-      "sha1": "eeec0f3ee9b9bb4612029245bc6666d7eb8bb083"
+      "sha1": "509de945f8ca17ee90e0b8c328525ea8cfb9b1b1"
     },
     {
       "path": "content/mods/thermal-foundation.json",
-      "sha1": "e2980f6aa72492830a2d01db0d79c0a448e100b5"
+      "sha1": "4c79a3e8140d11c37631526576d00c2719743a3c"
     },
     {
       "path": "content/mods/thermal-innovation.json",
-      "sha1": "c58d30f903bf5fe1e38b77cce172487aa219c00e"
+      "sha1": "d261a0f7db895aadf4b07096e3f8cf3dcd40a96e"
     },
     {
       "path": "content/mods/tinkers-construct.json",
-      "sha1": "d1a24ed3f545a9243c66bfc075ffcefaa6bac720"
+      "sha1": "ba5701f46dda228fca24a6e3fa0ffc9c11d6643a"
     },
     {
       "path": "content/mods/tinkers-levelling-addon.json",
-      "sha1": "939f620bc0518f5bded85800e10a5a6fd9d06c6c"
+      "sha1": "e782969c0bb0ddf9f4dd9ff0ec7528a19ed22c1b"
+    },
+    {
+      "path": "content/mods/titanium.json",
+      "sha1": "15e7c60e2c16c04731369a55794d45f404453020"
     },
     {
       "path": "content/mods/tmrv-updated.json",
@@ -418,7 +494,7 @@
     },
     {
       "path": "content/mods/waystones.json",
-      "sha1": "9394641701c9f3d9d1b00908e84cd5620e8ad6aa"
+      "sha1": "92230ccb3b7a6318722492f22f60a2da20ab99ef"
     },
     {
       "path": "content/mods/xnet.json",
@@ -426,7 +502,7 @@
     },
     {
       "path": "content/mods/zume.json",
-      "sha1": "5a251c38c3ab5f8b912011c398212e031a2248f7"
+      "sha1": "ea583653bca3bd9cc833a76cb7cdc8fb398a2fde"
     },
     {
       "path": "overrides/config/Mekanism/client.toml",
@@ -1293,12 +1369,16 @@
       "sha1": "0ebdc248ab9e6985c2b01008e5329bff3f3bc8ad"
     },
     {
+      "path": "overrides/config/brandon3055/DraconicAdditions.cfg",
+      "sha1": "f9eaca1045171b9cef551364e7e50c4c49a494fd"
+    },
+    {
       "path": "overrides/config/brandon3055/DraconicEvolution.cfg",
       "sha1": "97c6058307a949f6242ec81f49f221af63dc3328"
     },
     {
       "path": "overrides/config/brandon3055/ModuleStats.cfg",
-      "sha1": "1aa74c219d00d504eec1609b05c2555a9a7bf55f"
+      "sha1": "456dbc40e9ee85d5bed6cd77298f1783309d923e"
     },
     {
       "path": "overrides/config/brandon3055/contributors.json",
@@ -1379,6 +1459,10 @@
     {
       "path": "overrides/config/embeddium-options.json",
       "sha1": "4f530bfc22a9c010db8d3796101a925d9003518e"
+    },
+    {
+      "path": "overrides/config/embersquesting/pack/pack.mcmeta",
+      "sha1": "abf8ecbcbc152880a8e74b927646891f26b8c509"
     },
     {
       "path": "overrides/config/emi.css",
@@ -1545,6 +1629,10 @@
       "sha1": "7627eca1106d93c40770e166ad92acb21117ffb7"
     },
     {
+      "path": "overrides/config/gag.snbt",
+      "sha1": "14da8f8b0c319ee77e7a18db2666f34bccd812a8"
+    },
+    {
       "path": "overrides/config/gtceu.yaml",
       "sha1": "c1506aa6a6b321efd8ca26290236a891d712805b"
     },
@@ -1559,6 +1647,26 @@
     {
       "path": "overrides/config/immediatelyfast.json",
       "sha1": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-agriculture-husbandry.toml",
+      "sha1": "d1ab766b26ad46b8c48889e69a80d6f1626caea3"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-core.toml",
+      "sha1": "d22b131b1768c4c1434dd3ff213134f84d1176af"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-generator.toml",
+      "sha1": "246acc8d2c7ae7569a971b157e628e8a92aefcc5"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-misc.toml",
+      "sha1": "f2de6f9d2f1c548b027b2b25f30e139385181861"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-resource-production.toml",
+      "sha1": "6ae15eb1acf02c0bcbca0ef4a8946bfc0d5ec1e0"
     },
     {
       "path": "overrides/config/integrateddynamics-common.toml",
@@ -1590,11 +1698,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "69a8f2a4966402de194a2a42a6aa2efced9102e4"
+      "sha1": "24a1bda484f3ef8cd92a11997c72620b4c2df4c9"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "52ec10d8dd67bd6349b1ddf0d959ba0d481a4899"
+      "sha1": "53057d092b7e3d7484b04d5299ade92b3ece7d11"
     },
     {
       "path": "overrides/config/kjstudioperf-client.toml",
@@ -1777,6 +1885,10 @@
       "sha1": "a81c1548124baa5a62cee56b7ddfb77620007ab6"
     },
     {
+      "path": "overrides/config/sophisticatedcore-common.toml",
+      "sha1": "891d107670ba01c4b40f18346ca90a1bc7400131"
+    },
+    {
       "path": "overrides/config/storagedrawers-client.toml",
       "sha1": "f5c3487fb86909fd59c4bd52c06f77f233085a0d"
     },
@@ -1805,6 +1917,14 @@
       "sha1": "5239b9e557793fa44f9dfca1dd53584a105936e3"
     },
     {
+      "path": "overrides/config/titanium/titanium-tags.toml",
+      "sha1": "0b4b21965ac938748b8479f140fe05cca0305c27"
+    },
+    {
+      "path": "overrides/config/titanium/titanium.toml",
+      "sha1": "d5cb766bd1c09e61152324d0743aca1aba0725d6"
+    },
+    {
       "path": "overrides/config/tmrv_plugins.json5",
       "sha1": "fab12907c05a3f1c9375e9b2a4e9afc87d275c97"
     },
@@ -1823,6 +1943,10 @@
     {
       "path": "overrides/defaultconfigs/ftbchunks/ftbchunks-world.snbt",
       "sha1": "59e94d64924b44e8c5bdec548cbb7852023d0ae2"
+    },
+    {
+      "path": "overrides/defaultconfigs/gag/gag.snbt",
+      "sha1": "b4e8d03c7b97c3529e5646f0f902af393eb6d256"
     },
     {
       "path": "overrides/gtceu/prospection_cache/FrenchFryFan_297b45d0-95d4-4771-b6fe-23b87d67d76d/v0_1_0_069458d8-022b-4f9e-a930-c2e614a9bd09/gtceu/fluids.nbt",
@@ -3514,7 +3638,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/misc.js",
-      "sha1": "01dea566141d8c077edb86aa07c70c0252c4f98f"
+      "sha1": "e72b8eea0a65b3cb66631ad4f427d5551583ca2a"
     },
     {
       "path": "overrides/kubejs/startup_scripts/example.js",
@@ -3525,8 +3649,12 @@
       "sha1": "ed21d9deec7294e2dac7d91ef4ca5cfb7ae45227"
     },
     {
+      "path": "overrides/kubejs/startup_scripts/kubejsstudio/items.js",
+      "sha1": "cbab1fcf33aef807d2ee966f571ad1a3c03cabde"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/specific_items.js",
-      "sha1": "c81b0a97a39fb318f50f577336eaa1a71d3334a9"
+      "sha1": "f4f96efa89273eaabc28986c2196b7a3da2c681f"
     },
     {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",

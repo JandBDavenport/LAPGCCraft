@@ -1,0 +1,33 @@
+{
+  "name": "Iron Chests",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "modrinth": {
+      "id": "P3iIrPH3",
+      "slug": "iron-chests",
+      "versionId": "YjbOtYwN",
+      "versionNumber": "1.20.1-14.4.4",
+      "filename": "ironchest-1.20.1-14.4.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/P3iIrPH3/versions/YjbOtYwN/ironchest-1.20.1-14.4.4.jar",
+      "sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb",
+      "sha512": "5d41daa11bbc5c98c98faf6641993a47bce92c56204cec745686396e4f912b67abbc29f9fefcc5fd89422c37c3b34c191bfcc6479b28d7a07886cd279c0d6d99",
+      "fileSize": 311290
+    },
+    "curseforge": {
+      "id": "228756",
+      "slug": "iron-chests",
+      "versionId": "4614852",
+      "versionNumber": "ironchest-1.20.1-14.4.4.jar",
+      "filename": "ironchest-1.20.1-14.4.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4614/852/ironchest-1.20.1-14.4.4.jar",
+      "sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb",
+      "fileSize": 311290
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

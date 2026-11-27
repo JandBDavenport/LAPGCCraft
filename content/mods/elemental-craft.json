@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "o51LXm0t",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/o51LXm0t/versions/Xb5TdOqu/elementalcraft-1.20.1-6.0.1.jar",
       "sha1": "602f902ee05e33fd4204f2566949d9f7185406a5",
       "sha512": "e64f92e6cad8d22df44628b851794ce6ec3d02186e7f7559701fd19022fd5f53f46e82e388d09cc47ac5501788da5207880e0e54242677b834c2c3b339adb8bc",
+      "fileSize": 2684778
+    },
+    "curseforge": {
+      "id": "395158",
+      "slug": "elemental-craft",
+      "versionId": "4800163",
+      "versionNumber": "elementalcraft-1.20.1-6.0.1.jar",
+      "filename": "elementalcraft-1.20.1-6.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4800/163/elementalcraft-1.20.1-6.0.1.jar",
+      "sha1": "602f902ee05e33fd4204f2566949d9f7185406a5",
       "fileSize": 2684778
     }
   },

@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "Rw1NrDzF",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/Rw1NrDzF/versions/xnLznSfT/Cucumber-1.20.1-7.0.16.jar",
       "sha1": "88a9ec30e4acb5c80a3ae060ad70b79e945293c6",
       "sha512": "4b68f300df40e2243a76b80c6a8dff2ed6af01a33e058f1f0e79690ffebea35b020d323fe478c4e41516330c7650cb9b1b713d132ed0de63f96e4787da43a7f5",
+      "fileSize": 271462
+    },
+    "curseforge": {
+      "id": "272335",
+      "slug": "cucumber",
+      "versionId": "7180783",
+      "versionNumber": "Cucumber-1.20.1-7.0.16.jar",
+      "filename": "Cucumber-1.20.1-7.0.16.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7180/783/Cucumber-1.20.1-7.0.16.jar",
+      "sha1": "88a9ec30e4acb5c80a3ae060ad70b79e945293c6",
       "fileSize": 271462
     }
   },

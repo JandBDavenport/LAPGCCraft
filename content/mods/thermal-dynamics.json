@@ -3,7 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "t8bmWGI2",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/t8bmWGI2/versions/KaJ5ADIU/thermal_dynamics-1.20.1-11.0.1.23.jar",
       "sha1": "7a9b3691dfca81e52d3e34738c6bc0a98b58bf93",
       "sha512": "c670bd8ca004342561b40eefa9f7b35232c6fa725c5d4b23eafc3ba5dd9980f71debad1bb02f1d551a6d42011ab693d62796402d0630542a8a68455105d3224c",
+      "fileSize": 622948
+    },
+    "curseforge": {
+      "id": "227443",
+      "slug": "thermal-dynamics",
+      "versionId": "5372747",
+      "versionNumber": "thermal_dynamics-1.20.1-11.0.1.23.jar",
+      "filename": "thermal_dynamics-1.20.1-11.0.1.23.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5372/747/thermal_dynamics-1.20.1-11.0.1.23.jar",
+      "sha1": "7a9b3691dfca81e52d3e34738c6bc0a98b58bf93",
       "fileSize": 622948
     }
   },

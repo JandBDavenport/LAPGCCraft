@@ -1,9 +1,9 @@
 {
   "name": "Nolijium",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
     "modrinth": {
       "id": "KstN3eSL",
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/KstN3eSL/versions/zbYZJRDt/nolijium-0.5.6.jar",
       "sha1": "7074fda15f70440eb1e30f74a7dc70feadd49592",
       "sha512": "180434401b01bedb219a9e2f350a6b7b6f9ae9749ef2e72961516f0519de249bf6d3caf48f4bb4536706a48e99162f4bcfea18b76cecdba64e791b440ba52ea1",
+      "fileSize": 362983
+    },
+    "curseforge": {
+      "id": "969602",
+      "slug": "nolijium",
+      "versionId": "6264798",
+      "versionNumber": "0.5.6",
+      "filename": "nolijium-0.5.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6264/798/nolijium-0.5.6.jar",
+      "sha1": "7074fda15f70440eb1e30f74a7dc70feadd49592",
       "fileSize": 362983
     }
   },
