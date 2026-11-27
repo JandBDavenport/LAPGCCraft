@@ -1,6 +1,6 @@
 {
   "name": "Kotlin for Forge",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

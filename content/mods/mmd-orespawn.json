@@ -1,6 +1,6 @@
 {
   "name": "MMD OreSpawn",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

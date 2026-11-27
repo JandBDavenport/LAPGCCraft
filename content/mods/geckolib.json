@@ -1,6 +1,6 @@
 {
   "name": "GeckoLib",
-  "side": "auto",
+  "side": "both",
   "explicit": false,
   "disabled": false,
   "preferred": "curseforge",

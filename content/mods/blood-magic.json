@@ -1,6 +1,6 @@
 {
   "name": "Blood Magic",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
@@ -27,9 +27,7 @@
       "fileSize": 15079434
     }
   },
-  "dependents": [
-    "934206"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "required"
 }

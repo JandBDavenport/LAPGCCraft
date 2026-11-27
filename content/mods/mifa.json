@@ -1,6 +1,6 @@
 {
   "name": "More Industrial Foregoing Addons (MIFA)",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

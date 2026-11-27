@@ -1,6 +1,6 @@
 {
   "name": "Curvy Pipes",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

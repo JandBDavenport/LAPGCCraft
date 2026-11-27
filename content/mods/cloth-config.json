@@ -1,6 +1,6 @@
 {
   "name": "Cloth Config API",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

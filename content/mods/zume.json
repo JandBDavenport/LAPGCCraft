@@ -1,6 +1,6 @@
 {
   "name": "Zume",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
@@ -32,5 +32,5 @@
     "969602"
   ],
   "clientSide": "required",
-  "serverSide": "required"
+  "serverSide": "unsupported"
 }

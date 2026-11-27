@@ -1,6 +1,6 @@
 {
   "name": "LootJS: KubeJS Addon",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

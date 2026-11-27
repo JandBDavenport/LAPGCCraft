@@ -1,6 +1,6 @@
 {
   "name": "Emberbium",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

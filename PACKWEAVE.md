@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 119 mods (7 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 121 mods (7 dependencies)
 
 ## Contents
 
@@ -43,6 +43,7 @@
 - [Ender IO](https://www.curseforge.com/projects/64578) `Ender IO - 6.2.18-beta`
 - [Ender IO: Conduit Optimizer](https://www.curseforge.com/projects/1575307) `enderio_conduit_opt-1.0.7-1.20.1.jar`
 - [Ender IO: Evolution](https://www.curseforge.com/projects/1453074) `enderio_evolution-1.2.7-Forge-1.20.1.jar`
+- [Ender Storage 1.8.+](https://www.curseforge.com/projects/245174) `EnderStorage 1.20.1-2.11.0.188-universal`
 - [Entangled](https://www.curseforge.com/projects/301034) `Entangled 1.3.21a for Forge 1.20.4`
 - [EntityJS](https://www.curseforge.com/projects/967617) `entityjs-forge-0.7.5.jar`
 - [EvilCraft](https://www.curseforge.com/projects/74610) `EvilCraft-1.20.1-1.3.7.jar`
@@ -64,11 +65,12 @@
 - [Integrated Dynamics](https://www.curseforge.com/projects/236307) `IntegratedDynamics-1.20.1-1.31.5.jar`
 - [Iron Chests](https://www.curseforge.com/projects/228756) `ironchest-1.20.1-14.4.4.jar`
 - [Iron Furnaces](https://www.curseforge.com/projects/237664) `ironfurnaces-1.20.1-4.1.8.jar`
+- [Jade Addons (Neo/Forge)](https://www.curseforge.com/projects/583345) `[Forge 1.20.1] 5.5.1`
 - [Jade 🔍](https://www.curseforge.com/projects/324717) `[Forge 1.20.1] 11.13.3`
 - [JourneyMap](https://www.curseforge.com/projects/32274) `journeymap-1.20.1-6.0.8+forge`
 - [Kotlin for Forge](https://www.curseforge.com/projects/351264) `Kotlin for Forge 4.13.0`
 - [KubeJS](https://www.curseforge.com/projects/238086) `KubeJS Forge 2001.6.5-build.26`
-- [KubeJS Addon - Blood Magic](https://www.curseforge.com/projects/934206) `KubeJS Blood Magic-1.0.2-1.20.1.jar`
+- [KubeJS Addon - Blood Magic](https://www.curseforge.com/projects/934206) `KubeJSBloodMagic-1.20.1-1.0.3.jar`
 - [KubeJS Powah](https://www.curseforge.com/projects/838378) `kubejspowah-1.2.1.jar`
 - [KubeJS Studio](https://www.curseforge.com/projects/1597398) `KubeJS Studio 1.3.0 (Forge 1.20.1)`
 - [KubeJS Thermal](https://www.curseforge.com/projects/421694) `kubejs-thermal Forge 2001.1.10-build.5`

@@ -1,6 +1,6 @@
 {
   "name": "CodeChicken Lib",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
@@ -29,7 +29,8 @@
   },
   "dependents": [
     "223565",
-    "231382"
+    "231382",
+    "245174"
   ],
   "clientSide": "required",
   "serverSide": "required"

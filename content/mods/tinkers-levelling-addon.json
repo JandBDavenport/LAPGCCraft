@@ -1,6 +1,6 @@
 {
   "name": "Tinkers' Levelling Addon",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

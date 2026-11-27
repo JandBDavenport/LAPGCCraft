@@ -1,6 +1,6 @@
 {
   "name": "PolyLib",
-  "side": "auto",
+  "side": "both",
   "explicit": false,
   "disabled": false,
   "preferred": "curseforge",

@@ -1,6 +1,6 @@
 {
   "name": "Applied Energistics 2",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

@@ -1,6 +1,6 @@
 {
   "name": "Extended Crafting: Expanded Reforked",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

@@ -1,0 +1,22 @@
+{
+  "name": "Ender Storage 1.8.+",
+  "side": "both",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "245174",
+      "slug": "ender-storage-1-8",
+      "versionId": "5292573",
+      "versionNumber": "EnderStorage 1.20.1-2.11.0.188-universal",
+      "filename": "EnderStorage-1.20.1-2.11.0.188-universal.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5292/573/EnderStorage-1.20.1-2.11.0.188-universal.jar",
+      "sha1": "19a4935881634bdb98aad4aba6e548b13ffaded7",
+      "fileSize": 246017
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

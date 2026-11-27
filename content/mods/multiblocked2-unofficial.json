@@ -1,6 +1,6 @@
 {
   "name": "Multiblocked2 Unofficial",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

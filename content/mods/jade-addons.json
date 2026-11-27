@@ -1,0 +1,22 @@
+{
+  "name": "Jade Addons (Neo/Forge)",
+  "side": "both",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "583345",
+      "slug": "jade-addons",
+      "versionId": "8203724",
+      "versionNumber": "[Forge 1.20.1] 5.5.1",
+      "filename": "JadeAddons-1.20.1-Forge-5.5.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8203/724/JadeAddons-1.20.1-Forge-5.5.1.jar",
+      "sha1": "c4339eb3ef0c4728cb511efe60726653a35c7a0d",
+      "fileSize": 91754
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

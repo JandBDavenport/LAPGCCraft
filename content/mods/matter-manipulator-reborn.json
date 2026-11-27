@@ -1,6 +1,6 @@
 {
   "name": "Matter Manipulator Reborn",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",

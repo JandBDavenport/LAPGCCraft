@@ -1,6 +1,6 @@
 {
   "name": "Jade 🔍",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
@@ -27,7 +27,9 @@
       "fileSize": 553487
     }
   },
-  "dependents": [],
+  "dependents": [
+    "583345"
+  ],
   "optionalDependents": [
     "223794",
     "268560",

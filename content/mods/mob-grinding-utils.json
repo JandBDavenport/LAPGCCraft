@@ -1,6 +1,6 @@
 {
   "name": "Mob Grinding Utils",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
