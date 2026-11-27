@@ -7,4 +7,5 @@ ServerEvents.tags('item', event => {
     event.remove('forge:raw_materials/uraninite', 'powah:uraninite_raw')
     event.add('forge:sandstone/venus_sandstone', 'ad_astra:venus_sandstone')
     event.add('forge:dusts/quartz', 'gtceu:nether_quartz_dust')
+    event.add('forge:dusts/wood', 'nuclearcraft:sawdust')
 })

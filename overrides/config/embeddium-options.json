@@ -3,11 +3,13 @@
     "weather_quality": "DEFAULT",
     "leaves_quality": "DEFAULT",
     "enable_vignette": false,
+    "enable_chunk_fade_in": false,
     "use_quad_normals_for_shading": false
   },
   "advanced": {
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
+    "use_modern_gl_paths": false,
     "disable_incompatible_mod_warnings": false,
     "cpu_render_ahead_limit": 3
   },
@@ -20,11 +22,12 @@
     "use_block_face_culling": true,
     "use_compact_vertex_format": true,
     "use_translucent_face_sorting_v2": true,
+    "use_render_pass_optimization": true,
     "use_no_error_g_l_context": true
   },
   "notifications": {
     "force_disable_donation_prompts": false,
     "has_cleared_donation_button": true,
-    "has_seen_donation_prompt": false
+    "has_seen_donation_prompt": true
   }
 }

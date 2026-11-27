@@ -129,8 +129,12 @@
       "sha1": "7ab1179eb6d4fbbf5cd5562a225eaa90f7216275"
     },
     {
-      "path": "content/mods/embeddium.json",
-      "sha1": "d9efc5da1cd43f6e16e8e875585cac9d2b7e41ae"
+      "path": "content/mods/emberbium.json",
+      "sha1": "edcb9ae2b1c5c26ce11656285140695fb1739377"
+    },
+    {
+      "path": "content/mods/emberlens.json",
+      "sha1": "7eb5066074ef0221c0ae1a04e10027e1c88ca35c"
     },
     {
       "path": "content/mods/embers-questing.json",
@@ -1458,7 +1462,7 @@
     },
     {
       "path": "overrides/config/embeddium-options.json",
-      "sha1": "4f530bfc22a9c010db8d3796101a925d9003518e"
+      "sha1": "b96876e2c6adbd5d088a48820cd493dd730ccdfb"
     },
     {
       "path": "overrides/config/embersquesting/pack/pack.mcmeta",
@@ -1777,6 +1781,10 @@
       "sha1": "e250518137db8bab643bf1626b1e903acd7e3b22"
     },
     {
+      "path": "overrides/config/oculus.properties",
+      "sha1": "285717069717b58580ba68eb5a500f9eb1a6bcb2"
+    },
+    {
       "path": "overrides/config/orespawn-common.toml",
       "sha1": "20637fb48ebf4cd0567ea3883cddde2708f43419"
     },
@@ -1878,7 +1886,7 @@
     },
     {
       "path": "overrides/config/powah.json5",
-      "sha1": "3d5aef0bf49de779bcce2d12694ab82252950821"
+      "sha1": "fa9a3230ef4fa2fb34d8beffd2a142d09ebc2757"
     },
     {
       "path": "overrides/config/resourceful-config-web.json",
@@ -1890,7 +1898,7 @@
     },
     {
       "path": "overrides/config/sophisticatedcore-common.toml",
-      "sha1": "3ee5cc495a3868db53ab2cb0211e180a3ae6717d"
+      "sha1": "57940e4ac80c488ed5a8b0e6df14d0225881ca8c"
     },
     {
       "path": "overrides/config/storagedrawers-client.toml",
@@ -1943,6 +1951,10 @@
     {
       "path": "overrides/config/zume.json5",
       "sha1": "d1f7f7cefb1042d843972a118d73bffeb63702e1"
+    },
+    {
+      "path": "overrides/defaultconfigs/ftbchunks/client-config.snbt",
+      "sha1": "88476b9e989d832c57cc6d6b06a89067efa910d8"
     },
     {
       "path": "overrides/defaultconfigs/ftbchunks/ftbchunks-world.snbt",
@@ -3581,6 +3593,10 @@
       "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
     },
     {
+      "path": "overrides/kubejs/assets/kubejs/lang/en_us.json",
+      "sha1": "43ae6be6a03a01cdbc533c34debaf81b97a16af5"
+    },
+    {
       "path": "overrides/kubejs/assets/kubejs/textures/block/example_block.png",
       "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
     },
@@ -3617,6 +3633,10 @@
       "sha1": "18a3586374a680d8b9227b63d62f0abb4f5bdc1b"
     },
     {
+      "path": "overrides/kubejs/kubejsstudio/appearance.json",
+      "sha1": "764e11f28726f8de0da404201988b57ff949cc33"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/example.js",
       "sha1": "9530c6a8d3608ca41418ccb29a01d179d5c06bab"
     },
@@ -3634,7 +3654,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/item.js",
-      "sha1": "f6a6374b0ef574cd166ea28cff6bf46e9c1b8c90"
+      "sha1": "89a1e9cce034a464f2a42cf34df9b2d30916082b"
     },
     {
       "path": "overrides/kubejs/server_scripts/lapgc_hide_fluids.js",

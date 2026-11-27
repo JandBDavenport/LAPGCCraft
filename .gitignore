@@ -83,3 +83,5 @@ overrides/config/forestry-client.toml
 overrides/gtceu/prospection_cache/JandBDavenport_30c251f6-404a-4347-9db7-d536cf6774c2/world_1622b82a-697d-4997-8fd9-715d03a12383/gtceu/DIMminecraft=overworld.nbt
 overrides/config/embersquesting/client.json
 overrides/config/embersquesting/previews/mp_breakvial.net_5d569279.json
+overrides/config/embersquesting/previews/sp_singleplayer_dev_world_4e596874.json
+overrides/config/embersquesting/problems.txt

@@ -1,0 +1,24 @@
+{
+  "item": {
+    "kubejs:cpu": {
+      "key": "item.kubejs.cpu",
+      "name": "CPU"
+    },
+    "kubejs:exa_tier_gpu": {
+      "key": "item.kubejs.exa_tier_gpu",
+      "name": "Exa Tier GPU"
+    },
+    "kubejs:gpu": {
+      "key": "item.kubejs.gpu",
+      "name": "GPU"
+    },
+    "kubejs:high_end_pc": {
+      "key": "item.kubejs.high_end_pc",
+      "name": "High End PC"
+    },
+    "kubejs:resonant_gpu": {
+      "key": "item.kubejs.resonant_gpu",
+      "name": "Resonant GPU"
+    }
+  }
+}

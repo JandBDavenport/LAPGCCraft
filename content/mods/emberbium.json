@@ -1,0 +1,22 @@
+{
+  "name": "Emberbium",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1679656",
+      "slug": "emberbium",
+      "versionId": "9809960",
+      "versionNumber": "emberbium-0.3.32-beta.120-dirty+mc1.20.1.jar",
+      "filename": "emberbium-0.3.32-beta.120-dirty-mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9809/960/emberbium-0.3.32-beta.120-dirty-mc1.20.1.jar",
+      "sha1": "845f56767c9030ca45c853871248241652e7b394",
+      "fileSize": 1490255
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

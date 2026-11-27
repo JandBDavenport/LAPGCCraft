@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 119 mods (6 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 119 mods (7 dependencies)
 
 ## Contents
 
@@ -35,8 +35,8 @@
 - [Draconic Additions](https://www.curseforge.com/projects/314515) `Draconic-Additions-1.20.1-2.4.1.5-universal.jar`
 - [Draconic Evolution](https://www.curseforge.com/projects/223565) `Draconic Evolution 1.20.1-3.1.2.621`
 - [Elemental Craft](https://www.curseforge.com/projects/395158) `elementalcraft-1.20.1-6.0.1.jar`
-- [Embeddium](https://www.curseforge.com/projects/908741) `[1.20.1] Embeddium 0.3.31`
 - [Ember's Questing](https://www.curseforge.com/projects/1752806) `Ember's Questing 1.10.0 (Forge 1.20.1)`
+- [Emberbium](https://www.curseforge.com/projects/1679656) `emberbium-0.3.32-beta.120-dirty+mc1.20.1.jar`
 - [EMI](https://www.curseforge.com/projects/580555) `emi-1.1.24+1.20.1+forge`
 - [EMI Ores](https://www.curseforge.com/projects/974009) `emi_ores-1.3+1.20.1+forge.jar`
 - [Enchantment Descriptions](https://www.curseforge.com/projects/250419) `EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar`
