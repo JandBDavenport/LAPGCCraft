@@ -44,5 +44,4 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'nuclearcraft:tin_block' })
     event.remove({ id: 'thermal:storage/silver_ingot_from_nuggets' })
     event.remove({ id: 'tconstruct:common/glass/vanilla/beacon' })
-    event.shaped('minecraft:mangrove_sign', ['#A#'], { '#': 'gtceu:gregification_hazard_sign_block', 'A': 'gtceu:mv_chemical_reactor' }).id('kubejsstudio:mangrove_sign')
 })
