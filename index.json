@@ -1369,12 +1369,16 @@
       "sha1": "0ebdc248ab9e6985c2b01008e5329bff3f3bc8ad"
     },
     {
+      "path": "overrides/config/brandon3055/DraconicAdditions.cfg",
+      "sha1": "f9eaca1045171b9cef551364e7e50c4c49a494fd"
+    },
+    {
       "path": "overrides/config/brandon3055/DraconicEvolution.cfg",
       "sha1": "97c6058307a949f6242ec81f49f221af63dc3328"
     },
     {
       "path": "overrides/config/brandon3055/ModuleStats.cfg",
-      "sha1": "1aa74c219d00d504eec1609b05c2555a9a7bf55f"
+      "sha1": "456dbc40e9ee85d5bed6cd77298f1783309d923e"
     },
     {
       "path": "overrides/config/brandon3055/contributors.json",
@@ -1455,6 +1459,10 @@
     {
       "path": "overrides/config/embeddium-options.json",
       "sha1": "4f530bfc22a9c010db8d3796101a925d9003518e"
+    },
+    {
+      "path": "overrides/config/embersquesting/pack/pack.mcmeta",
+      "sha1": "abf8ecbcbc152880a8e74b927646891f26b8c509"
     },
     {
       "path": "overrides/config/emi.css",
@@ -1621,6 +1629,10 @@
       "sha1": "7627eca1106d93c40770e166ad92acb21117ffb7"
     },
     {
+      "path": "overrides/config/gag.snbt",
+      "sha1": "14da8f8b0c319ee77e7a18db2666f34bccd812a8"
+    },
+    {
       "path": "overrides/config/gtceu.yaml",
       "sha1": "c1506aa6a6b321efd8ca26290236a891d712805b"
     },
@@ -1635,6 +1647,26 @@
     {
       "path": "overrides/config/immediatelyfast.json",
       "sha1": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-agriculture-husbandry.toml",
+      "sha1": "d1ab766b26ad46b8c48889e69a80d6f1626caea3"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-core.toml",
+      "sha1": "d22b131b1768c4c1434dd3ff213134f84d1176af"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-generator.toml",
+      "sha1": "246acc8d2c7ae7569a971b157e628e8a92aefcc5"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-misc.toml",
+      "sha1": "f2de6f9d2f1c548b027b2b25f30e139385181861"
+    },
+    {
+      "path": "overrides/config/industrialforegoing/machine-resource-production.toml",
+      "sha1": "6ae15eb1acf02c0bcbca0ef4a8946bfc0d5ec1e0"
     },
     {
       "path": "overrides/config/integrateddynamics-common.toml",
@@ -1666,11 +1698,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "69a8f2a4966402de194a2a42a6aa2efced9102e4"
+      "sha1": "24a1bda484f3ef8cd92a11997c72620b4c2df4c9"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "52ec10d8dd67bd6349b1ddf0d959ba0d481a4899"
+      "sha1": "53057d092b7e3d7484b04d5299ade92b3ece7d11"
     },
     {
       "path": "overrides/config/kjstudioperf-client.toml",
@@ -1853,6 +1885,10 @@
       "sha1": "a81c1548124baa5a62cee56b7ddfb77620007ab6"
     },
     {
+      "path": "overrides/config/sophisticatedcore-common.toml",
+      "sha1": "891d107670ba01c4b40f18346ca90a1bc7400131"
+    },
+    {
       "path": "overrides/config/storagedrawers-client.toml",
       "sha1": "f5c3487fb86909fd59c4bd52c06f77f233085a0d"
     },
@@ -1881,6 +1917,14 @@
       "sha1": "5239b9e557793fa44f9dfca1dd53584a105936e3"
     },
     {
+      "path": "overrides/config/titanium/titanium-tags.toml",
+      "sha1": "0b4b21965ac938748b8479f140fe05cca0305c27"
+    },
+    {
+      "path": "overrides/config/titanium/titanium.toml",
+      "sha1": "d5cb766bd1c09e61152324d0743aca1aba0725d6"
+    },
+    {
       "path": "overrides/config/tmrv_plugins.json5",
       "sha1": "fab12907c05a3f1c9375e9b2a4e9afc87d275c97"
     },
@@ -1899,6 +1943,10 @@
     {
       "path": "overrides/defaultconfigs/ftbchunks/ftbchunks-world.snbt",
       "sha1": "59e94d64924b44e8c5bdec548cbb7852023d0ae2"
+    },
+    {
+      "path": "overrides/defaultconfigs/gag/gag.snbt",
+      "sha1": "b4e8d03c7b97c3529e5646f0f902af393eb6d256"
     },
     {
       "path": "overrides/gtceu/prospection_cache/FrenchFryFan_297b45d0-95d4-4771-b6fe-23b87d67d76d/v0_1_0_069458d8-022b-4f9e-a930-c2e614a9bd09/gtceu/fluids.nbt",
@@ -3590,7 +3638,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/misc.js",
-      "sha1": "01dea566141d8c077edb86aa07c70c0252c4f98f"
+      "sha1": "e72b8eea0a65b3cb66631ad4f427d5551583ca2a"
     },
     {
       "path": "overrides/kubejs/startup_scripts/example.js",
@@ -3601,8 +3649,12 @@
       "sha1": "ed21d9deec7294e2dac7d91ef4ca5cfb7ae45227"
     },
     {
+      "path": "overrides/kubejs/startup_scripts/kubejsstudio/items.js",
+      "sha1": "cbab1fcf33aef807d2ee966f571ad1a3c03cabde"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/specific_items.js",
-      "sha1": "c81b0a97a39fb318f50f577336eaa1a71d3334a9"
+      "sha1": "f4f96efa89273eaabc28986c2196b7a3da2c681f"
     },
     {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",
