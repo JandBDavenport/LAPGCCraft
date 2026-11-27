@@ -22,7 +22,6 @@ event.create('sodium_sulfide')
 event.create('sodium_chromate')
 event.create('sodium_dichromate')
 event.create('sodium_sulfate')
-event.create('chromium_trioxide')
 event.create('calcium_sulfide')
 event.create('alumina')
 
